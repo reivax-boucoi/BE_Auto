@@ -3,6 +3,9 @@
 ################################################################################
 
 # Add inputs and outputs from these tool invocations to the build variables 
+S_UPPER_SRCS += \
+../src/intc_sw_handlers.S 
+
 C_SRCS += \
 ../src/ClockConfig.c \
 ../src/Cmd_moteur.c \
@@ -26,9 +29,6 @@ C_SRCS += \
 ../src/main.c \
 ../src/modele_moteur_virtuel.c \
 ../src/pga411.c 
-
-S_UPPER_SRCS += \
-../src/intc_sw_handlers.S 
 
 OBJS += \
 ./src/ClockConfig.o \

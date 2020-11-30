@@ -17,8 +17,23 @@ RM := rm -rf
 -include objects.mk
 
 ifneq ($(MAKECMDGOALS),clean)
+ifneq ($(strip $(CC_DEPS)),)
+-include $(CC_DEPS)
+endif
+ifneq ($(strip $(C++_DEPS)),)
+-include $(C++_DEPS)
+endif
+ifneq ($(strip $(C_UPPER_DEPS)),)
+-include $(C_UPPER_DEPS)
+endif
+ifneq ($(strip $(CXX_DEPS)),)
+-include $(CXX_DEPS)
+endif
 ifneq ($(strip $(C_DEPS)),)
 -include $(C_DEPS)
+endif
+ifneq ($(strip $(CPP_DEPS)),)
+-include $(CPP_DEPS)
 endif
 endif
 
@@ -33,10 +48,10 @@ PMSM_TGN002_cde_Uf.siz \
 all: PMSM_TGN002_cde_Uf.elf secondary-outputs
 
 # Tool invocations
-PMSM_TGN002_cde_Uf.elf: $(OBJS) C:/Users/adminaboyer/alex/enseignements_2020_21/BE_electronique_automobile/Workspace_S32DS/PMSM_TGN002_cde_Uf/Project_Settings/Linker_Files/57xx_flash.ld $(OSPT) $(USER_OBJS)
+PMSM_TGN002_cde_Uf.elf: $(OBJS) C:/Users/bourlot/Downloads/BE_Auto/UsurF/PMSM_TGN002_cde_Uf/Project_Settings/Linker_Files/57xx_flash.ld $(OSPT) $(USER_OBJS)
 	@echo 'Building target: $@'
-	@echo 'Invoking: Standard S32DS C Linker'
-	powerpc-eabivle-gcc -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"  $(USER_OBJS)  $(OSPT)
+	@echo 'Invoking: Standard S32DS C++ Linker'
+	powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"  $(USER_OBJS)  $(OSPT)
 	@echo 'Finished building target: $@'
 	@echo ' '
 
