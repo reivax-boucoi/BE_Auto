@@ -1,0 +1,21 @@
+10:36:11 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+make -j4 all 
+Building file: ../src/main.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: PMSM_TGN002_cde_Uf.elf
+Invoking: Standard S32DS C++ Linker
+powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
+Finished building target: PMSM_TGN002_cde_Uf.elf
+ 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
+   text	   data	    bss	    dec	    hex	filename
+  54330	    276	   5556	  60162	   eb02	PMSM_TGN002_cde_Uf.elf
+Finished building: PMSM_TGN002_cde_Uf.siz
+ 
+
+10:36:13 Build Finished (took 1s.797ms)
+
