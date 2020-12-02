@@ -9,7 +9,7 @@
  *  Dans le fichier SWLIBS_Config.h, donnez à SWLIBS_DEFAULT_IMPLEMENTATION la valeur
  *  SWLIBS_DEFAULT_IMPLEMENTATION_FLT, sinon erreur de build !
  */
-
+#include <stdlib.h>
 
 #include "Cmd_moteur.h"
 #include "gd3000.h"
@@ -304,11 +304,21 @@ SWLIBS_2Syst_FLT Exec_Slow_Loop(void) {
  */
 /*****************************************************************************/
 tFloat U_F_LUT(tFloat Vitesse_in) {
+
 	tFloat Uq_ref = 0;
+	//K_v=3.5V/kRPM
 
-	//Look-up table à créer !
-	//Pour l'instant, la fonction renvoie une commande de référence nulle.
+	if(abs(Vitesse_in) < 500){
+		Uq_ref=1.75;
+	}else if(abs(Vitesse_in) < 2571){
+		Uq_ref=abs(Vitesse_in)*3.5/1000.0;
+	}else{
+		Uq_ref=9;
+	}
 
+	if (Vitesse_in<0){
+		Uq_ref=-Uq_ref;
+	}
 	return(Uq_ref);
 }
 

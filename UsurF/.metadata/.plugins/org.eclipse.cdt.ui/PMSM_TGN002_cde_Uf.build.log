@@ -1,4 +1,4 @@
-10:36:11 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+11:45:33 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
 make -j4 all 
 Building file: ../src/main.c
 Invoking: Standard S32DS C Compiler
@@ -13,9 +13,9 @@ Finished building target: PMSM_TGN002_cde_Uf.elf
 Invoking: Standard S32DS Print Size
 powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
    text	   data	    bss	    dec	    hex	filename
-  54330	    276	   5556	  60162	   eb02	PMSM_TGN002_cde_Uf.elf
+  56162	    276	   5556	  61994	   f22a	PMSM_TGN002_cde_Uf.elf
 Finished building: PMSM_TGN002_cde_Uf.siz
  
 
-10:36:13 Build Finished (took 1s.797ms)
+11:45:34 Build Finished (took 1s.708ms)
 

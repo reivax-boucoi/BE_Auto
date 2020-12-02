@@ -168,7 +168,7 @@ int main(void)
 	/***************************************************************/
 	/* Initialisation des paramètres de la commande moteur         */
 	/***************************************************************/
-	init_Cmd_Moteur_Variables(MOTEUR_VIRTUEL); //MOTEUR_REEL ou MOTEUR_VIRTUEL
+	init_Cmd_Moteur_Variables(MOTEUR_REEL); //MOTEUR_REEL ou MOTEUR_VIRTUEL
 
 	/***************************************************************/
 	/* Initialisation des composants extérieurs (gate driver, current*/

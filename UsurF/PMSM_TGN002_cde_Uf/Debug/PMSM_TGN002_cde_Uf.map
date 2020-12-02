@@ -14,24 +14,38 @@ C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/l
                               ./src/modele_moteur_virtuel.o (GMCLIB_Park_FLT)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
                               ./src/Cmd_moteur.o (__extendsfdf2)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
+                              ./src/Cmd_moteur.o (__muldf3)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
+                              ./src/Cmd_moteur.o (__divdf3)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
                               ./src/Cmd_moteur.o (__gtdf2)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
                               ./src/Cmd_moteur.o (__ltdf2)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
                               ./src/pga411.o (__ledf2)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
+                              ./src/Cmd_moteur.o (__floatsidf)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
                               c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o) (__make_dp)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
+                              ./src/Cmd_moteur.o (__truncdfsf2)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_thenan_df.o)
+                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o) (__thenan_df)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
                               ./src/main.o (__eabi)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
                               c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o) (__unpack_f)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
+                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o) (__make_fp)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
-                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o) (__pack_d)
+                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o) (__pack_d)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
-                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o) (__unpack_d)
+                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o) (__unpack_d)
 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
                               c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o) (__fpcmp_parts_d)
+c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
+                              c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o) (__pack_f)
 
 Allocating common symbols
 Common symbol       size              file
@@ -726,6 +740,8 @@ Discarded input sections
  .group         0x00000000        0x8 ./src/Cmd_moteur.o
  .group         0x00000000        0x8 ./src/Cmd_moteur.o
  .group         0x00000000        0x8 ./src/Cmd_moteur.o
+ .group         0x00000000        0x8 ./src/Cmd_moteur.o
+ .group         0x00000000        0x8 ./src/Cmd_moteur.o
  .text          0x00000000        0x0 ./src/Cmd_moteur.o
  .data          0x00000000        0x0 ./src/Cmd_moteur.o
  .bss           0x00000000        0x0 ./src/Cmd_moteur.o
@@ -736,11 +752,9 @@ Discarded input sections
  .debug_macro   0x00000000       0x5e ./src/Cmd_moteur.o
  .debug_macro   0x00000000      0x1aa ./src/Cmd_moteur.o
  .debug_macro   0x00000000      0x13a ./src/Cmd_moteur.o
- .debug_macro   0x00000000       0x9d ./src/Cmd_moteur.o
  .debug_macro   0x00000000       0x10 ./src/Cmd_moteur.o
- .debug_macro   0x00000000      0x15b ./src/Cmd_moteur.o
  .debug_macro   0x00000000       0x28 ./src/Cmd_moteur.o
- .debug_macro   0x00000000       0x58 ./src/Cmd_moteur.o
+ .debug_macro   0x00000000       0x9d ./src/Cmd_moteur.o
  .debug_macro   0x00000000       0xd0 ./src/Cmd_moteur.o
  .debug_macro   0x00000000      0x795 ./src/Cmd_moteur.o
  .group         0x00000000        0x8 ./src/ConfigADC.o
@@ -1035,7 +1049,6 @@ Discarded input sections
  .debug_macro   0x00000000     0xb50a ./src/Current_Sensor.o
  .debug_macro   0x00000000       0x61 ./src/Current_Sensor.o
  .debug_macro   0x00000000       0x28 ./src/Current_Sensor.o
- .debug_macro   0x00000000       0x24 ./src/Current_Sensor.o
  .debug_macro   0x00000000      0x100 ./src/Current_Sensor.o
  .debug_macro   0x00000000      0x795 ./src/Current_Sensor.o
  .debug_macro   0x00000000       0xa6 ./src/Current_Sensor.o
@@ -1910,6 +1923,10 @@ Discarded input sections
                 0x00000000       0x3c C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_Park_c.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
@@ -1917,17 +1934,28 @@ Discarded input sections
  .text          0x00000000       0x64 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
+ .text          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_thenan_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_thenan_df.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_thenan_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
+ .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
+ .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
  .data          0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
  .bss           0x00000000        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
  .jcr           0x00000000        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
@@ -2058,7 +2086,7 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
                 0x01002000      0xb78 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
                 0x01002000                IntcIsrVectorTable
 
-.text           0x01002b80     0xc370
+.text           0x01002b80     0xca80
  *(.text.startup)
  *(.text)
  .text          0x01002b80      0x16c c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
@@ -2067,858 +2095,875 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
                 0x01002cf0                IVOR4_Handler
  .text          0x01002d38       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
                 0x01002d38                __extendsfdf2
- .text          0x01002d70       0x64 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
-                0x01002d70                __gtdf2
- .text          0x01002dd4       0x64 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
-                0x01002dd4                __ltdf2
- .text          0x01002e38       0x26 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
-                0x01002e38                __make_dp
- .text          0x01002e5e       0x4a c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
-                0x01002e5e                __eabi
- .text          0x01002ea8       0x80 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
-                0x01002ea8                __unpack_f
- .text          0x01002f28      0x1e6 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
-                0x01002f28                __pack_d
- *fill*         0x0100310e        0x2 
- .text          0x01003110       0xb0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
-                0x01003110                __unpack_d
- .text          0x010031c0       0xc6 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
-                0x010031c0                __fpcmp_parts_d
- *fill*         0x01003286        0x2 
- .text          0x01003288       0x48 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .text          0x01002d70      0x26c c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
+                0x01002d70                __muldf3
+ .text          0x01002fdc      0x17e c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
+                0x01002fdc                __divdf3
+ *fill*         0x0100315a        0x2 
+ .text          0x0100315c       0x64 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
+                0x0100315c                __gtdf2
+ .text          0x010031c0       0x64 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
+                0x010031c0                __ltdf2
+ .text          0x01003224       0x84 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
+                0x01003224                __floatsidf
+ .text          0x010032a8       0x26 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
+                0x010032a8                __make_dp
+ *fill*         0x010032ce        0x2 
+ .text          0x010032d0       0x44 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
+                0x010032d0                __truncdfsf2
+ .text          0x01003314       0x4a c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                0x01003314                __eabi
+ *fill*         0x0100335e        0x2 
+ .text          0x01003360       0x80 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
+                0x01003360                __unpack_f
+ .text          0x010033e0       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
+                0x010033e0                __make_fp
+ .text          0x01003400      0x1e6 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
+                0x01003400                __pack_d
+ *fill*         0x010035e6        0x2 
+ .text          0x010035e8       0xb0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
+                0x010035e8                __unpack_d
+ .text          0x01003698       0xc6 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
+                0x01003698                __fpcmp_parts_d
+ *fill*         0x0100375e        0x2 
+ .text          0x01003760      0x118 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
+                0x01003760                __pack_f
+ .text          0x01003878       0x48 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
  *(.text.*)
  .text.FMSTR_InitAppCmds
-                0x010032d0       0x82 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
-                0x010032d0                FMSTR_InitAppCmds
- *fill*         0x01003352        0x2 
+                0x010038c0       0x82 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
+                0x010038c0                FMSTR_InitAppCmds
+ *fill*         0x01003942        0x2 
  .text.FMSTR_StoreAppCmd
-                0x01003354      0x132 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
-                0x01003354                FMSTR_StoreAppCmd
- *fill*         0x01003486        0x2 
+                0x01003944      0x132 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
+                0x01003944                FMSTR_StoreAppCmd
+ *fill*         0x01003a76        0x2 
  .text.FMSTR_GetAppCmdStatus
-                0x01003488       0xe0 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
-                0x01003488                FMSTR_GetAppCmdStatus
+                0x01003a78       0xe0 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
+                0x01003a78                FMSTR_GetAppCmdStatus
  .text.FMSTR_GetAppCmdRespData
-                0x01003568      0x116 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
-                0x01003568                FMSTR_GetAppCmdRespData
- *fill*         0x0100367e        0x2 
+                0x01003b58      0x116 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
+                0x01003b58                FMSTR_GetAppCmdRespData
+ *fill*         0x01003c6e        0x2 
  .text.FMSTR_FindAppCmdCallIndex
-                0x01003680       0x84 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
+                0x01003c70       0x84 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .text.FMSTR_InitPipes
-                0x01003704       0x66 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
-                0x01003704                FMSTR_InitPipes
- *fill*         0x0100376a        0x2 
+                0x01003cf4       0x66 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                0x01003cf4                FMSTR_InitPipes
+ *fill*         0x01003d5a        0x2 
  .text.FMSTR_FindPipe
-                0x0100376c       0x86 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
- *fill*         0x010037f2        0x2 
+                0x01003d5c       0x86 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+ *fill*         0x01003de2        0x2 
  .text.FMSTR_PipeGetBytesFree
-                0x010037f4       0x9a ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
- *fill*         0x0100388e        0x2 
+                0x01003de4       0x9a ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+ *fill*         0x01003e7e        0x2 
  .text.FMSTR_PipeGetBytesReady
-                0x01003890       0x9c ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                0x01003e80       0x9c ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
  .text.FMSTR_PipeDiscardBytes
-                0x0100392c       0xd0 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                0x01003f1c       0xd0 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
  .text.FMSTR_PipeReceive
-                0x010039fc      0x178 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                0x01003fec      0x178 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
  .text.FMSTR_PipeTransmit
-                0x01003b74      0x118 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                0x01004164      0x118 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
  .text.FMSTR_PipeFrame
-                0x01003c8c      0x338 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
-                0x01003c8c                FMSTR_PipeFrame
+                0x0100427c      0x338 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                0x0100427c                FMSTR_PipeFrame
  .text.FMSTR_Init
-                0x01003fc4       0x54 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x01003fc4                FMSTR_Init
+                0x010045b4       0x54 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x010045b4                FMSTR_Init
  .text.FMSTR_ProtocolDecoder
-                0x01004018      0x37e ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x01004018                FMSTR_ProtocolDecoder
- *fill*         0x01004396        0x2 
+                0x01004608      0x37e ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x01004608                FMSTR_ProtocolDecoder
+ *fill*         0x01004986        0x2 
  .text.FMSTR_GetBoardInfo
-                0x01004398      0x104 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x01004398                FMSTR_GetBoardInfo
+                0x01004988      0x104 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x01004988                FMSTR_GetBoardInfo
  .text.FMSTR_ReadMem
-                0x0100449c       0x9a ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x0100449c                FMSTR_ReadMem
- *fill*         0x01004536        0x2 
+                0x01004a8c       0x9a ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x01004a8c                FMSTR_ReadMem
+ *fill*         0x01004b26        0x2 
  .text.FMSTR_ReadVar
-                0x01004538       0x62 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x01004538                FMSTR_ReadVar
- *fill*         0x0100459a        0x2 
+                0x01004b28       0x62 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x01004b28                FMSTR_ReadVar
+ *fill*         0x01004b8a        0x2 
  .text.FMSTR_WriteMem
-                0x0100459c       0x6c ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x0100459c                FMSTR_WriteMem
+                0x01004b8c       0x6c ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x01004b8c                FMSTR_WriteMem
  .text.FMSTR_WriteMemMask
-                0x01004608       0x6c ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
-                0x01004608                FMSTR_WriteMemMask
+                0x01004bf8       0x6c ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+                0x01004bf8                FMSTR_WriteMemMask
  .text.FMSTR_InitRec
-                0x01004674       0x2e ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004674                FMSTR_InitRec
- *fill*         0x010046a2        0x2 
+                0x01004c64       0x2e ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x01004c64                FMSTR_InitRec
+ *fill*         0x01004c92        0x2 
  .text.FMSTR_AbortRec
-                0x010046a4       0x1e ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
- *fill*         0x010046c2        0x2 
+                0x01004c94       0x1e ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+ *fill*         0x01004cb2        0x2 
  .text.FMSTR_SetUpRec
-                0x010046c4      0x3fe ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x010046c4                FMSTR_SetUpRec
- *fill*         0x01004ac2        0x2 
+                0x01004cb4      0x3fe ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x01004cb4                FMSTR_SetUpRec
+ *fill*         0x010050b2        0x2 
  .text.FMSTR_TriggerRec
-                0x01004ac4       0x5a ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004ac4                FMSTR_TriggerRec
- *fill*         0x01004b1e        0x2 
+                0x010050b4       0x5a ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x010050b4                FMSTR_TriggerRec
+ *fill*         0x0100510e        0x2 
  .text.FMSTR_StartRec
-                0x01004b20       0xda ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004b20                FMSTR_StartRec
- *fill*         0x01004bfa        0x2 
+                0x01005110       0xda ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x01005110                FMSTR_StartRec
+ *fill*         0x010051ea        0x2 
  .text.FMSTR_StopRec
-                0x01004bfc       0x8c ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004bfc                FMSTR_StopRec
+                0x010051ec       0x8c ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x010051ec                FMSTR_StopRec
  .text.FMSTR_GetRecStatus
-                0x01004c88       0x7c ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004c88                FMSTR_GetRecStatus
+                0x01005278       0x7c ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x01005278                FMSTR_GetRecStatus
  .text.FMSTR_GetRecBuffSize
-                0x01004d04       0x18 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004d04                FMSTR_GetRecBuffSize
+                0x010052f4       0x18 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x010052f4                FMSTR_GetRecBuffSize
  .text.FMSTR_GetRecBuff
-                0x01004d1c       0xae ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
-                0x01004d1c                FMSTR_GetRecBuff
- *fill*         0x01004dca        0x2 
+                0x0100530c       0xae ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x0100530c                FMSTR_GetRecBuff
+ *fill*         0x010053ba        0x2 
  .text.FMSTR_Compare8S
-                0x01004dcc       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x010053bc       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
  .text.FMSTR_Compare8U
-                0x01004e0c       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x010053fc       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
  .text.FMSTR_Compare16S
-                0x01004e4c       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x0100543c       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
  .text.FMSTR_Compare16U
-                0x01004e8c       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+                0x0100547c       0x40 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
  .text.FMSTR_Compare32S
-                0x01004ecc       0x3a ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
- *fill*         0x01004f06        0x2 
+                0x010054bc       0x3a ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+ *fill*         0x010054f6        0x2 
  .text.FMSTR_Compare32U
-                0x01004f08       0x3a ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
- *fill*         0x01004f42        0x2 
+                0x010054f8       0x3a ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+ *fill*         0x01005532        0x2 
  .text.FMSTR_InitScope
-                0x01004f44       0x14 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
-                0x01004f44                FMSTR_InitScope
+                0x01005534       0x14 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
+                0x01005534                FMSTR_InitScope
  .text.FMSTR_SetUpScope
-                0x01004f58      0x15c ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
-                0x01004f58                FMSTR_SetUpScope
+                0x01005548      0x15c ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
+                0x01005548                FMSTR_SetUpScope
  .text.FMSTR_ReadScope
-                0x010050b4       0xc4 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
-                0x010050b4                FMSTR_ReadScope
+                0x010056a4       0xc4 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
+                0x010056a4                FMSTR_ReadScope
  .text.FMSTR_SCI_RDCLRSR
-                0x01005178       0x32 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
- *fill*         0x010051aa        0x2 
+                0x01005768       0x32 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+ *fill*         0x0100579a        0x2 
  .text.FMSTR_RxQueue
-                0x010051ac       0x84 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x0100579c       0x84 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
  .text.FMSTR_RxDequeue
-                0x01005230       0xc2 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
- *fill*         0x010052f2        0x2 
+                0x01005820       0xc2 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+ *fill*         0x010058e2        0x2 
  .text.FMSTR_ProcessSCI
-                0x010052f4       0xf4 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
-                0x010052f4                FMSTR_ProcessSCI
+                0x010058e4       0xf4 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x010058e4                FMSTR_ProcessSCI
  .text.FMSTR_Listen
-                0x010053e8       0x84 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x010059d8       0x84 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
  .text.FMSTR_SendError
-                0x0100546c       0x3c ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x01005a5c       0x3c ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
  .text.FMSTR_SendResponse
-                0x010054a8      0x13c ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
-                0x010054a8                FMSTR_SendResponse
+                0x01005a98      0x13c ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x01005a98                FMSTR_SendResponse
  .text.FMSTR_Tx
-                0x010055e4      0x106 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
-                0x010055e4                FMSTR_Tx
- *fill*         0x010056ea        0x2 
+                0x01005bd4      0x106 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x01005bd4                FMSTR_Tx
+ *fill*         0x01005cda        0x2 
  .text.FMSTR_Rx
-                0x010056ec      0x2e2 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
-                0x010056ec                FMSTR_Rx
- *fill*         0x010059ce        0x2 
+                0x01005cdc      0x2e2 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x01005cdc                FMSTR_Rx
+ *fill*         0x01005fbe        0x2 
  .text.FMSTR_InitSerial
-                0x010059d0       0x6e ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
-                0x010059d0                FMSTR_InitSerial
- *fill*         0x01005a3e        0x2 
+                0x01005fc0       0x6e ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x01005fc0                FMSTR_InitSerial
+ *fill*         0x0100602e        0x2 
  .text.FMSTR_Poll
-                0x01005a40       0x22 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
-                0x01005a40                FMSTR_Poll
- *fill*         0x01005a62        0x2 
+                0x01006030       0x22 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+                0x01006030                FMSTR_Poll
+ *fill*         0x01006052        0x2 
  .text.FMSTR_Isr
-                0x01005a64       0x22 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
-                0x01005a64                FMSTR_Isr
- *fill*         0x01005a86        0x2 
+                0x01006054       0x22 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
+                0x01006054                FMSTR_Isr
+ *fill*         0x01006076        0x2 
  .text.FMSTR_CopyToBuffer
-                0x01005a88       0x68 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
-                0x01005a88                FMSTR_CopyToBuffer
+                0x01006078       0x68 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
+                0x01006078                FMSTR_CopyToBuffer
  .text.FMSTR_CopyFromBuffer
-                0x01005af0       0x68 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
-                0x01005af0                FMSTR_CopyFromBuffer
+                0x010060e0       0x68 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
+                0x010060e0                FMSTR_CopyFromBuffer
  .text.FMSTR_CopyFromBufferWithMask
-                0x01005b58       0xbc ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
-                0x01005b58                FMSTR_CopyFromBufferWithMask
+                0x01006148       0xbc ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
+                0x01006148                FMSTR_CopyFromBufferWithMask
  .text.ConfigPLL0
-                0x01005c14       0xe4 ./src/ClockConfig.o
-                0x01005c14                ConfigPLL0
+                0x01006204       0xe4 ./src/ClockConfig.o
+                0x01006204                ConfigPLL0
  .text.DivideSystClock
-                0x01005cf8       0x8e ./src/ClockConfig.o
-                0x01005cf8                DivideSystClock
- *fill*         0x01005d86        0x2 
+                0x010062e8       0x8e ./src/ClockConfig.o
+                0x010062e8                DivideSystClock
+ *fill*         0x01006376        0x2 
  .text.ConfigADCClock
-                0x01005d88       0xa8 ./src/ClockConfig.o
-                0x01005d88                ConfigADCClock
+                0x01006378       0xa8 ./src/ClockConfig.o
+                0x01006378                ConfigADCClock
  .text.ConfigMotCClock
-                0x01005e30       0xa8 ./src/ClockConfig.o
-                0x01005e30                ConfigMotCClock
+                0x01006420       0xa8 ./src/ClockConfig.o
+                0x01006420                ConfigMotCClock
  .text.MLIB_Add_FLT
-                0x01005ed8       0x1e ./src/Cmd_moteur.o
- *fill*         0x01005ef6        0x2 
+                0x010064c8       0x1e ./src/Cmd_moteur.o
+ *fill*         0x010064e6        0x2 
  .text.MLIB_Sub_FLT
-                0x01005ef8       0x1e ./src/Cmd_moteur.o
- *fill*         0x01005f16        0x2 
+                0x010064e8       0x1e ./src/Cmd_moteur.o
+ *fill*         0x01006506        0x2 
  .text.MLIB_Mul_FLT
-                0x01005f18       0x1e ./src/Cmd_moteur.o
- *fill*         0x01005f36        0x2 
+                0x01006508       0x1e ./src/Cmd_moteur.o
+ *fill*         0x01006526        0x2 
  .text.MLIB_Div_FLT
-                0x01005f38       0x1e ./src/Cmd_moteur.o
- *fill*         0x01005f56        0x2 
+                0x01006528       0x1e ./src/Cmd_moteur.o
+ *fill*         0x01006546        0x2 
  .text.ConvertPU_F16FLT_S32DSPPC_EFPU2
-                0x01005f58       0x2a ./src/Cmd_moteur.o
- *fill*         0x01005f82        0x2 
+                0x01006548       0x2a ./src/Cmd_moteur.o
+ *fill*         0x01006572        0x2 
  .text.MLIB_ConvertPU_F16FLT
-                0x01005f84       0x2a ./src/Cmd_moteur.o
- *fill*         0x01005fae        0x2 
+                0x01006574       0x2a ./src/Cmd_moteur.o
+ *fill*         0x0100659e        0x2 
  .text.init_Cmd_Moteur_Variables
-                0x01005fb0      0x1ac ./src/Cmd_moteur.o
-                0x01005fb0                init_Cmd_Moteur_Variables
+                0x010065a0      0x1ac ./src/Cmd_moteur.o
+                0x010065a0                init_Cmd_Moteur_Variables
  .text.raz_Entree_Cmd
-                0x0100615c       0x4c ./src/Cmd_moteur.o
-                0x0100615c                raz_Entree_Cmd
+                0x0100674c       0x4c ./src/Cmd_moteur.o
+                0x0100674c                raz_Entree_Cmd
  .text.Exec_Fast_Loop
-                0x010061a8      0x25a ./src/Cmd_moteur.o
-                0x010061a8                Exec_Fast_Loop
- *fill*         0x01006402        0x2 
+                0x01006798      0x25a ./src/Cmd_moteur.o
+                0x01006798                Exec_Fast_Loop
+ *fill*         0x010069f2        0x2 
  .text.User_Speed_Ramp
-                0x01006404       0xf8 ./src/Cmd_moteur.o
-                0x01006404                User_Speed_Ramp
+                0x010069f4       0xf8 ./src/Cmd_moteur.o
+                0x010069f4                User_Speed_Ramp
  .text.Exec_Slow_Loop
-                0x010064fc       0x74 ./src/Cmd_moteur.o
-                0x010064fc                Exec_Slow_Loop
- .text.U_F_LUT  0x01006570       0x24 ./src/Cmd_moteur.o
-                0x01006570                U_F_LUT
+                0x01006aec       0x74 ./src/Cmd_moteur.o
+                0x01006aec                Exec_Slow_Loop
+ .text.U_F_LUT  0x01006b60      0x13c ./src/Cmd_moteur.o
+                0x01006b60                U_F_LUT
  .text.Estimate_Rotor_Angle
-                0x01006594       0xe6 ./src/Cmd_moteur.o
-                0x01006594                Estimate_Rotor_Angle
- *fill*         0x0100667a        0x2 
+                0x01006c9c       0xe6 ./src/Cmd_moteur.o
+                0x01006c9c                Estimate_Rotor_Angle
+ *fill*         0x01006d82        0x2 
  .text.Convert_CmdDuty_F16_INT16
-                0x0100667c       0xb4 ./src/Cmd_moteur.o
-                0x0100667c                Convert_CmdDuty_F16_INT16
+                0x01006d84       0xb4 ./src/Cmd_moteur.o
+                0x01006d84                Convert_CmdDuty_F16_INT16
  .text.ADC0_EOC_FAST_LOOP_isr
-                0x01006730      0x362 ./src/Cmd_moteur.o
-                0x01006730                ADC0_EOC_FAST_LOOP_isr
- *fill*         0x01006a92        0x2 
+                0x01006e38      0x362 ./src/Cmd_moteur.o
+                0x01006e38                ADC0_EOC_FAST_LOOP_isr
+ *fill*         0x0100719a        0x2 
  .text.ADC_Enter_PWDN
-                0x01006a94      0x14c ./src/ConfigADC.o
-                0x01006a94                ADC_Enter_PWDN
+                0x0100719c      0x14c ./src/ConfigADC.o
+                0x0100719c                ADC_Enter_PWDN
  .text.ADC_Exit_PWDN
-                0x01006be0      0x14c ./src/ConfigADC.o
-                0x01006be0                ADC_Exit_PWDN
+                0x010072e8      0x14c ./src/ConfigADC.o
+                0x010072e8                ADC_Exit_PWDN
  .text.ADC_init
-                0x01006d2c      0x316 ./src/ConfigADC.o
-                0x01006d2c                ADC_init
- *fill*         0x01007042        0x2 
+                0x01007434      0x316 ./src/ConfigADC.o
+                0x01007434                ADC_init
+ *fill*         0x0100774a        0x2 
  .text.ADC_ConvTime_config
-                0x01007044      0x1c8 ./src/ConfigADC.o
-                0x01007044                ADC_ConvTime_config
+                0x0100774c      0x1c8 ./src/ConfigADC.o
+                0x0100774c                ADC_ConvTime_config
  .text.ADC_DisableAllChannel_NormalConv
-                0x0100720c       0xbc ./src/ConfigADC.o
-                0x0100720c                ADC_DisableAllChannel_NormalConv
+                0x01007914       0xbc ./src/ConfigADC.o
+                0x01007914                ADC_DisableAllChannel_NormalConv
  .text.ADC_SelectChannel_NormalConv
-                0x010072c8      0x678 ./src/ConfigADC.o
-                0x010072c8                ADC_SelectChannel_NormalConv
+                0x010079d0      0x678 ./src/ConfigADC.o
+                0x010079d0                ADC_SelectChannel_NormalConv
  .text.ADC_ISRGlobalEnable
-                0x01007940      0x2a0 ./src/ConfigADC.o
-                0x01007940                ADC_ISRGlobalEnable
+                0x01008048      0x2a0 ./src/ConfigADC.o
+                0x01008048                ADC_ISRGlobalEnable
  .text.ADC_ChannelMask_ISR
-                0x01007be0      0x872 ./src/ConfigADC.o
-                0x01007be0                ADC_ChannelMask_ISR
- *fill*         0x01008452        0x2 
+                0x010082e8      0x872 ./src/ConfigADC.o
+                0x010082e8                ADC_ChannelMask_ISR
+ *fill*         0x01008b5a        0x2 
  .text.ADC_ReadChannel
-                0x01008454      0x240 ./src/ConfigADC.o
-                0x01008454                ADC_ReadChannel
+                0x01008b5c      0x240 ./src/ConfigADC.o
+                0x01008b5c                ADC_ReadChannel
  .text.ADC_Calibration
-                0x01008694      0x2c8 ./src/ConfigADC.o
-                0x01008694                ADC_Calibration
+                0x01008d9c      0x2c8 ./src/ConfigADC.o
+                0x01008d9c                ADC_Calibration
  .text.ADC_Get_EOCTU
-                0x0100895c       0xdc ./src/ConfigADC.o
-                0x0100895c                ADC_Get_EOCTU
+                0x01009064       0xdc ./src/ConfigADC.o
+                0x01009064                ADC_Get_EOCTU
  .text.ADC_Clear_EOCTU
-                0x01008a38       0xbc ./src/ConfigADC.o
-                0x01008a38                ADC_Clear_EOCTU
+                0x01009140       0xbc ./src/ConfigADC.o
+                0x01009140                ADC_Clear_EOCTU
  .text.ADC_Clear_All_Flags
-                0x01008af4       0xb4 ./src/ConfigADC.o
-                0x01008af4                ADC_Clear_All_Flags
+                0x010091fc       0xb4 ./src/ConfigADC.o
+                0x010091fc                ADC_Clear_All_Flags
  .text.Init_CTU0_GeneralControl
-                0x01008ba8       0x38 ./src/ConfigCTU.o
-                0x01008ba8                Init_CTU0_GeneralControl
+                0x010092b0       0x38 ./src/ConfigCTU.o
+                0x010092b0                Init_CTU0_GeneralControl
  .text.Init_CTU0_TriggerGenerator_Trigger2
-                0x01008be0       0xea ./src/ConfigCTU.o
-                0x01008be0                Init_CTU0_TriggerGenerator_Trigger2
- *fill*         0x01008cca        0x2 
+                0x010092e8       0xea ./src/ConfigCTU.o
+                0x010092e8                Init_CTU0_TriggerGenerator_Trigger2
+ *fill*         0x010093d2        0x2 
  .text.Init_CTU0_TriggerScheduler
-                0x01008ccc      0x2fa ./src/ConfigCTU.o
-                0x01008ccc                Init_CTU0_TriggerScheduler
- *fill*         0x01008fc6        0x2 
+                0x010093d4      0x2fa ./src/ConfigCTU.o
+                0x010093d4                Init_CTU0_TriggerScheduler
+ *fill*         0x010096ce        0x2 
  .text.CTU0_Stream_or_Parallel_ADC_List
-                0x01008fc8       0x6c ./src/ConfigCTU.o
-                0x01008fc8                CTU0_Stream_or_Parallel_ADC_List
+                0x010096d0       0x6c ./src/ConfigCTU.o
+                0x010096d0                CTU0_Stream_or_Parallel_ADC_List
  .text.Init_CTU0_TriggerScheduler_ADC_SingleConv
-                0x01009034      0x282 ./src/ConfigCTU.o
-                0x01009034                Init_CTU0_TriggerScheduler_ADC_SingleConv
- *fill*         0x010092b6        0x2 
+                0x0100973c      0x282 ./src/ConfigCTU.o
+                0x0100973c                Init_CTU0_TriggerScheduler_ADC_SingleConv
+ *fill*         0x010099be        0x2 
  .text.CTU0_General_Reload_Enable
-                0x010092b8       0x22 ./src/ConfigCTU.o
-                0x010092b8                CTU0_General_Reload_Enable
- *fill*         0x010092da        0x2 
+                0x010099c0       0x22 ./src/ConfigCTU.o
+                0x010099c0                CTU0_General_Reload_Enable
+ *fill*         0x010099e2        0x2 
  .text.Set_pad_out
-                0x010092dc       0x42 ./src/ConfigGPIO.o
-                0x010092dc                Set_pad_out
- *fill*         0x0100931e        0x2 
+                0x010099e4       0x42 ./src/ConfigGPIO.o
+                0x010099e4                Set_pad_out
+ *fill*         0x01009a26        0x2 
  .text.Read_pad_in
-                0x01009320       0x38 ./src/ConfigGPIO.o
-                0x01009320                Read_pad_in
+                0x01009a28       0x38 ./src/ConfigGPIO.o
+                0x01009a28                Read_pad_in
  .text.Config_pad_out
-                0x01009358      0x14e ./src/ConfigGPIO.o
-                0x01009358                Config_pad_out
- *fill*         0x010094a6        0x2 
+                0x01009a60      0x14e ./src/ConfigGPIO.o
+                0x01009a60                Config_pad_out
+ *fill*         0x01009bae        0x2 
  .text.Config_pad_in
-                0x010094a8       0xd4 ./src/ConfigGPIO.o
-                0x010094a8                Config_pad_in
+                0x01009bb0       0xd4 ./src/ConfigGPIO.o
+                0x01009bb0                Config_pad_in
  .text.Config_analog_pad
-                0x0100957c       0x4a ./src/ConfigGPIO.o
-                0x0100957c                Config_analog_pad
- *fill*         0x010095c6        0x2 
+                0x01009c84       0x4a ./src/ConfigGPIO.o
+                0x01009c84                Config_analog_pad
+ *fill*         0x01009cce        0x2 
  .text.Config_Alter_Function_Out
-                0x010095c8       0x40 ./src/ConfigGPIO.o
-                0x010095c8                Config_Alter_Function_Out
+                0x01009cd0       0x40 ./src/ConfigGPIO.o
+                0x01009cd0                Config_Alter_Function_Out
  .text.Config_Alter_Function_In
-                0x01009608       0x40 ./src/ConfigGPIO.o
-                0x01009608                Config_Alter_Function_In
+                0x01009d10       0x40 ./src/ConfigGPIO.o
+                0x01009d10                Config_Alter_Function_In
  .text.Config_ERQ_Pad
-                0x01009648      0x112 ./src/ConfigGPIO.o
-                0x01009648                Config_ERQ_Pad
- *fill*         0x0100975a        0x2 
+                0x01009d50      0x112 ./src/ConfigGPIO.o
+                0x01009d50                Config_ERQ_Pad
+ *fill*         0x01009e62        0x2 
  .text.PIT_ch_Init
-                0x0100975c       0x52 ./src/ConfigPIT.o
-                0x0100975c                PIT_ch_Init
- *fill*         0x010097ae        0x2 
+                0x01009e64       0x52 ./src/ConfigPIT.o
+                0x01009e64                PIT_ch_Init
+ *fill*         0x01009eb6        0x2 
  .text.startPIT_ch
-                0x010097b0       0x2a ./src/ConfigPIT.o
-                0x010097b0                startPIT_ch
- *fill*         0x010097da        0x2 
+                0x01009eb8       0x2a ./src/ConfigPIT.o
+                0x01009eb8                startPIT_ch
+ *fill*         0x01009ee2        0x2 
  .text.stopPIT_ch
-                0x010097dc       0x2a ./src/ConfigPIT.o
-                0x010097dc                stopPIT_ch
- *fill*         0x01009806        0x2 
+                0x01009ee4       0x2a ./src/ConfigPIT.o
+                0x01009ee4                stopPIT_ch
+ *fill*         0x01009f0e        0x2 
  .text.DelayTimerGeneral_us
-                0x01009808       0x7c ./src/ConfigPIT.o
-                0x01009808                DelayTimerGeneral_us
+                0x01009f10       0x7c ./src/ConfigPIT.o
+                0x01009f10                DelayTimerGeneral_us
  .text.DelayTimerGeneral_ms
-                0x01009884       0x7e ./src/ConfigPIT.o
-                0x01009884                DelayTimerGeneral_ms
- *fill*         0x01009902        0x2 
+                0x01009f8c       0x7e ./src/ConfigPIT.o
+                0x01009f8c                DelayTimerGeneral_ms
+ *fill*         0x0100a00a        0x2 
  .text.InitPWM0_Sub_ClkConfig
-                0x01009904       0x88 ./src/ConfigPWM.o
-                0x01009904                InitPWM0_Sub_ClkConfig
+                0x0100a00c       0x88 ./src/ConfigPWM.o
+                0x0100a00c                InitPWM0_Sub_ClkConfig
  .text.Init_IO_PWM0
-                0x0100998c      0x12a ./src/ConfigPWM.o
-                0x0100998c                Init_IO_PWM0
- *fill*         0x01009ab6        0x2 
+                0x0100a094      0x12a ./src/ConfigPWM.o
+                0x0100a094                Init_IO_PWM0
+ *fill*         0x0100a1be        0x2 
  .text.Config_PWM_Output
-                0x01009ab8      0x1bc ./src/ConfigPWM.o
-                0x01009ab8                Config_PWM_Output
+                0x0100a1c0      0x1bc ./src/ConfigPWM.o
+                0x0100a1c0                Config_PWM_Output
  .text.InitPWM0_Sub_OpMode
-                0x01009c74      0x348 ./src/ConfigPWM.o
-                0x01009c74                InitPWM0_Sub_OpMode
+                0x0100a37c      0x348 ./src/ConfigPWM.o
+                0x0100a37c                InitPWM0_Sub_OpMode
  .text.LoadPWM0_Params
-                0x01009fbc      0x176 ./src/ConfigPWM.o
-                0x01009fbc                LoadPWM0_Params
- *fill*         0x0100a132        0x2 
+                0x0100a6c4      0x176 ./src/ConfigPWM.o
+                0x0100a6c4                LoadPWM0_Params
+ *fill*         0x0100a83a        0x2 
  .text.Run_PWM0_SubModule
-                0x0100a134      0x178 ./src/ConfigPWM.o
-                0x0100a134                Run_PWM0_SubModule
+                0x0100a83c      0x178 ./src/ConfigPWM.o
+                0x0100a83c                Run_PWM0_SubModule
  .text.Config_PWM0_SignalParams
-                0x0100a2ac      0x1aa ./src/ConfigPWM.o
-                0x0100a2ac                Config_PWM0_SignalParams
- *fill*         0x0100a456        0x2 
+                0x0100a9b4      0x1aa ./src/ConfigPWM.o
+                0x0100a9b4                Config_PWM0_SignalParams
+ *fill*         0x0100ab5e        0x2 
  .text.Config_PWM0_OutA_SignalParams
-                0x0100a458      0x176 ./src/ConfigPWM.o
-                0x0100a458                Config_PWM0_OutA_SignalParams
- *fill*         0x0100a5ce        0x2 
+                0x0100ab60      0x176 ./src/ConfigPWM.o
+                0x0100ab60                Config_PWM0_OutA_SignalParams
+ *fill*         0x0100acd6        0x2 
  .text.Config_PWM0_OutB_SignalParams
-                0x0100a5d0      0x17a ./src/ConfigPWM.o
-                0x0100a5d0                Config_PWM0_OutB_SignalParams
- *fill*         0x0100a74a        0x2 
+                0x0100acd8      0x17a ./src/ConfigPWM.o
+                0x0100acd8                Config_PWM0_OutB_SignalParams
+ *fill*         0x0100ae52        0x2 
  .text.Disable_Fault_PWM0_All
-                0x0100a74c       0x32 ./src/ConfigPWM.o
-                0x0100a74c                Disable_Fault_PWM0_All
- *fill*         0x0100a77e        0x2 
+                0x0100ae54       0x32 ./src/ConfigPWM.o
+                0x0100ae54                Disable_Fault_PWM0_All
+ *fill*         0x0100ae86        0x2 
  .text.Activate_PWM0_Output
-                0x0100a780      0x274 ./src/ConfigPWM.o
-                0x0100a780                Activate_PWM0_Output
+                0x0100ae88      0x274 ./src/ConfigPWM.o
+                0x0100ae88                Activate_PWM0_Output
  .text.Enable_OutputTrigger
-                0x0100a9f4       0xe2 ./src/ConfigPWM.o
-                0x0100a9f4                Enable_OutputTrigger
- *fill*         0x0100aad6        0x2 
+                0x0100b0fc       0xe2 ./src/ConfigPWM.o
+                0x0100b0fc                Enable_OutputTrigger
+ *fill*         0x0100b1de        0x2 
  .text.Disable_OutputTrigger
-                0x0100aad8       0x36 ./src/ConfigPWM.o
-                0x0100aad8                Disable_OutputTrigger
- *fill*         0x0100ab0e        0x2 
+                0x0100b1e0       0x36 ./src/ConfigPWM.o
+                0x0100b1e0                Disable_OutputTrigger
+ *fill*         0x0100b216        0x2 
  .text.Start_PWM0_Trigger
-                0x0100ab10       0x6c ./src/ConfigPWM.o
-                0x0100ab10                Start_PWM0_Trigger
+                0x0100b218       0x6c ./src/ConfigPWM.o
+                0x0100b218                Start_PWM0_Trigger
  .text.Stop_PWM0_Trigger
-                0x0100ab7c       0x3c ./src/ConfigPWM.o
-                0x0100ab7c                Stop_PWM0_Trigger
+                0x0100b284       0x3c ./src/ConfigPWM.o
+                0x0100b284                Stop_PWM0_Trigger
  .text.MLIB_Neg_FLT
-                0x0100abb8       0x1c ./src/Current_Sensor.o
+                0x0100b2c0       0x1c ./src/Current_Sensor.o
  .text.MLIB_Add_FLT
-                0x0100abd4       0x1e ./src/Current_Sensor.o
- *fill*         0x0100abf2        0x2 
+                0x0100b2dc       0x1e ./src/Current_Sensor.o
+ *fill*         0x0100b2fa        0x2 
  .text.MLIB_Sub_FLT
-                0x0100abf4       0x1e ./src/Current_Sensor.o
- *fill*         0x0100ac12        0x2 
+                0x0100b2fc       0x1e ./src/Current_Sensor.o
+ *fill*         0x0100b31a        0x2 
  .text.MLIB_Mul_FLT
-                0x0100ac14       0x1e ./src/Current_Sensor.o
- *fill*         0x0100ac32        0x2 
+                0x0100b31c       0x1e ./src/Current_Sensor.o
+ *fill*         0x0100b33a        0x2 
  .text.MLIB_Div_FLT
-                0x0100ac34       0x1e ./src/Current_Sensor.o
- *fill*         0x0100ac52        0x2 
+                0x0100b33c       0x1e ./src/Current_Sensor.o
+ *fill*         0x0100b35a        0x2 
  .text.Current_sensor_Config_Init
-                0x0100ac54      0x114 ./src/Current_Sensor.o
-                0x0100ac54                Current_sensor_Config_Init
+                0x0100b35c      0x114 ./src/Current_Sensor.o
+                0x0100b35c                Current_sensor_Config_Init
  .text.Config_Init_ADC_IPhase
-                0x0100ad68       0xde ./src/Current_Sensor.o
-                0x0100ad68                Config_Init_ADC_IPhase
- *fill*         0x0100ae46        0x2 
+                0x0100b470       0xde ./src/Current_Sensor.o
+                0x0100b470                Config_Init_ADC_IPhase
+ *fill*         0x0100b54e        0x2 
  .text.Config_CTU0_IPhase_A_B
-                0x0100ae48       0xb6 ./src/Current_Sensor.o
-                0x0100ae48                Config_CTU0_IPhase_A_B
- *fill*         0x0100aefe        0x2 
+                0x0100b550       0xb6 ./src/Current_Sensor.o
+                0x0100b550                Config_CTU0_IPhase_A_B
+ *fill*         0x0100b606        0x2 
  .text.Get_Iphase_MotorGD_FLT
-                0x0100af00      0x18e ./src/Current_Sensor.o
-                0x0100af00                Get_Iphase_MotorGD_FLT
- *fill*         0x0100b08e        0x2 
+                0x0100b608      0x18e ./src/Current_Sensor.o
+                0x0100b608                Get_Iphase_MotorGD_FLT
+ *fill*         0x0100b796        0x2 
  .text.Deduce_Iphase_C_FLT
-                0x0100b090       0x6c ./src/Current_Sensor.o
-                0x0100b090                Deduce_Iphase_C_FLT
+                0x0100b798       0x6c ./src/Current_Sensor.o
+                0x0100b798                Deduce_Iphase_C_FLT
  .text.Get_ThreePhase_Current_MotorGD_FLT
-                0x0100b0fc       0x72 ./src/Current_Sensor.o
-                0x0100b0fc                Get_ThreePhase_Current_MotorGD_FLT
- *fill*         0x0100b16e        0x2 
+                0x0100b804       0x72 ./src/Current_Sensor.o
+                0x0100b804                Get_ThreePhase_Current_MotorGD_FLT
+ *fill*         0x0100b876        0x2 
  .text.Perform_Current_Meas_Calibration
-                0x0100b170      0x25e ./src/Current_Sensor.o
-                0x0100b170                Perform_Current_Meas_Calibration
- *fill*         0x0100b3ce        0x2 
+                0x0100b878      0x25e ./src/Current_Sensor.o
+                0x0100b878                Perform_Current_Meas_Calibration
+ *fill*         0x0100bad6        0x2 
  .text.Compensate_Iphase_MotorGD_FLT
-                0x0100b3d0       0x62 ./src/Current_Sensor.o
-                0x0100b3d0                Compensate_Iphase_MotorGD_FLT
- *fill*         0x0100b432        0x2 
+                0x0100bad8       0x62 ./src/Current_Sensor.o
+                0x0100bad8                Compensate_Iphase_MotorGD_FLT
+ *fill*         0x0100bb3a        0x2 
  .text.init_dspi0_ports
-                0x0100b434       0xc4 ./src/DSPIConfig.o
-                0x0100b434                init_dspi0_ports
+                0x0100bb3c       0xc4 ./src/DSPIConfig.o
+                0x0100bb3c                init_dspi0_ports
  .text.init_dspi2_ports
-                0x0100b4f8       0xc4 ./src/DSPIConfig.o
-                0x0100b4f8                init_dspi2_ports
+                0x0100bc00       0xc4 ./src/DSPIConfig.o
+                0x0100bc00                init_dspi2_ports
  .text.init_dspi0
-                0x0100b5bc       0x5e ./src/DSPIConfig.o
-                0x0100b5bc                init_dspi0
- *fill*         0x0100b61a        0x2 
+                0x0100bcc4       0x5e ./src/DSPIConfig.o
+                0x0100bcc4                init_dspi0
+ *fill*         0x0100bd22        0x2 
  .text.init_dspi2
-                0x0100b61c       0x5e ./src/DSPIConfig.o
-                0x0100b61c                init_dspi2
- *fill*         0x0100b67a        0x2 
+                0x0100bd24       0x5e ./src/DSPIConfig.o
+                0x0100bd24                init_dspi2
+ *fill*         0x0100bd82        0x2 
  .text.SetTiming_dspi0
-                0x0100b67c      0x144 ./src/DSPIConfig.o
-                0x0100b67c                SetTiming_dspi0
+                0x0100bd84      0x144 ./src/DSPIConfig.o
+                0x0100bd84                SetTiming_dspi0
  .text.SetTiming_dspi2
-                0x0100b7c0      0x138 ./src/DSPIConfig.o
-                0x0100b7c0                SetTiming_dspi2
+                0x0100bec8      0x138 ./src/DSPIConfig.o
+                0x0100bec8                SetTiming_dspi2
  .text.DSPI_Enter_Exit_HaltMode
-                0x0100b8f8       0xd8 ./src/DSPIConfig.o
-                0x0100b8f8                DSPI_Enter_Exit_HaltMode
+                0x0100c000       0xd8 ./src/DSPIConfig.o
+                0x0100c000                DSPI_Enter_Exit_HaltMode
  .text.Transmit_DSPI
-                0x0100b9d0      0x24a ./src/DSPIConfig.o
-                0x0100b9d0                Transmit_DSPI
- *fill*         0x0100bc1a        0x2 
+                0x0100c0d8      0x24a ./src/DSPIConfig.o
+                0x0100c0d8                Transmit_DSPI
+ *fill*         0x0100c322        0x2 
  .text.Transmit_DSPI_8bits
-                0x0100bc1c      0x24e ./src/DSPIConfig.o
-                0x0100bc1c                Transmit_DSPI_8bits
- *fill*         0x0100be6a        0x2 
+                0x0100c324      0x24e ./src/DSPIConfig.o
+                0x0100c324                Transmit_DSPI_8bits
+ *fill*         0x0100c572        0x2 
  .text.Read_DSPI
-                0x0100be6c      0x182 ./src/DSPIConfig.o
-                0x0100be6c                Read_DSPI
- *fill*         0x0100bfee        0x2 
+                0x0100c574      0x182 ./src/DSPIConfig.o
+                0x0100c574                Read_DSPI
+ *fill*         0x0100c6f6        0x2 
  .text.Transmit_Read_DSPI_8bits
-                0x0100bff0       0x8e ./src/DSPIConfig.o
-                0x0100bff0                Transmit_Read_DSPI_8bits
- *fill*         0x0100c07e        0x2 
+                0x0100c6f8       0x8e ./src/DSPIConfig.o
+                0x0100c6f8                Transmit_Read_DSPI_8bits
+ *fill*         0x0100c786        0x2 
  .text.Transmit_Read_DSPI_32bits
-                0x0100c080       0xd2 ./src/DSPIConfig.o
-                0x0100c080                Transmit_Read_DSPI_32bits
- *fill*         0x0100c152        0x2 
- .text.SetIVPR  0x0100c154       0x1a ./src/MPC57xx__Interrupt_Init.o
-                0x0100c154                SetIVPR
- *fill*         0x0100c16e        0x2 
+                0x0100c788       0xd2 ./src/DSPIConfig.o
+                0x0100c788                Transmit_Read_DSPI_32bits
+ *fill*         0x0100c85a        0x2 
+ .text.SetIVPR  0x0100c85c       0x1a ./src/MPC57xx__Interrupt_Init.o
+                0x0100c85c                SetIVPR
+ *fill*         0x0100c876        0x2 
  .text.InitINTC
-                0x0100c170       0x2a ./src/MPC57xx__Interrupt_Init.o
-                0x0100c170                InitINTC
- *fill*         0x0100c19a        0x2 
+                0x0100c878       0x2a ./src/MPC57xx__Interrupt_Init.o
+                0x0100c878                InitINTC
+ *fill*         0x0100c8a2        0x2 
  .text.enableIrq
-                0x0100c19c       0x20 ./src/MPC57xx__Interrupt_Init.o
-                0x0100c19c                enableIrq
+                0x0100c8a4       0x20 ./src/MPC57xx__Interrupt_Init.o
+                0x0100c8a4                enableIrq
  .text.xcptn_xmpl
-                0x0100c1bc       0x34 ./src/MPC57xx__Interrupt_Init.o
-                0x0100c1bc                xcptn_xmpl
+                0x0100c8c4       0x34 ./src/MPC57xx__Interrupt_Init.o
+                0x0100c8c4                xcptn_xmpl
  .text.peri_clock_gating
-                0x0100c1f0      0x108 ./src/ModeEntryAndConfig.o
-                0x0100c1f0                peri_clock_gating
+                0x0100c8f8      0x108 ./src/ModeEntryAndConfig.o
+                0x0100c8f8                peri_clock_gating
  .text.ModeConfig
-                0x0100c2f8      0x24c ./src/ModeEntryAndConfig.o
-                0x0100c2f8                ModeConfig
+                0x0100ca00      0x24c ./src/ModeEntryAndConfig.o
+                0x0100ca00                ModeConfig
  .text.ModeEnable
-                0x0100c544       0x8c ./src/ModeEntryAndConfig.o
-                0x0100c544                ModeEnable
+                0x0100cc4c       0x8c ./src/ModeEntryAndConfig.o
+                0x0100cc4c                ModeEnable
  .text.ModeTransition
-                0x0100c5d0       0x88 ./src/ModeEntryAndConfig.o
-                0x0100c5d0                ModeTransition
+                0x0100ccd8       0x88 ./src/ModeEntryAndConfig.o
+                0x0100ccd8                ModeTransition
  .text.Config_LINFlex1_UART
-                0x0100c658       0x40 ./src/UARTConfig.o
-                0x0100c658                Config_LINFlex1_UART
+                0x0100cd60       0x40 ./src/UARTConfig.o
+                0x0100cd60                Config_LINFlex1_UART
  .text.InitPortLinFlex1
-                0x0100c698       0x64 ./src/UARTConfig.o
-                0x0100c698                InitPortLinFlex1
+                0x0100cda0       0x64 ./src/UARTConfig.o
+                0x0100cda0                InitPortLinFlex1
  .text.InitUARTLinFlex1
-                0x0100c6fc       0xb8 ./src/UARTConfig.o
-                0x0100c6fc                InitUARTLinFlex1
+                0x0100ce04       0xb8 ./src/UARTConfig.o
+                0x0100ce04                InitUARTLinFlex1
  .text.SetBaudRateLinFlex
-                0x0100c7b4       0x98 ./src/UARTConfig.o
-                0x0100c7b4                SetBaudRateLinFlex
+                0x0100cebc       0x98 ./src/UARTConfig.o
+                0x0100cebc                SetBaudRateLinFlex
  .text.EnterExitInitModeLinFlex
-                0x0100c84c       0x80 ./src/UARTConfig.o
-                0x0100c84c                EnterExitInitModeLinFlex
+                0x0100cf54       0x80 ./src/UARTConfig.o
+                0x0100cf54                EnterExitInitModeLinFlex
  .text.init_User_Interface
-                0x0100c8cc       0x98 ./src/User_Interface.o
-                0x0100c8cc                init_User_Interface
+                0x0100cfd4       0x98 ./src/User_Interface.o
+                0x0100cfd4                init_User_Interface
  .text.Config_eTimer2_InputCapture
-                0x0100c964      0x108 ./src/eTimer.o
-                0x0100c964                Config_eTimer2_InputCapture
+                0x0100d06c      0x108 ./src/eTimer.o
+                0x0100d06c                Config_eTimer2_InputCapture
  .text.Start_eTimer2_InputCapture_Count
-                0x0100ca6c       0x32 ./src/eTimer.o
-                0x0100ca6c                Start_eTimer2_InputCapture_Count
- *fill*         0x0100ca9e        0x2 
+                0x0100d174       0x32 ./src/eTimer.o
+                0x0100d174                Start_eTimer2_InputCapture_Count
+ *fill*         0x0100d1a6        0x2 
  .text.gd3000_Activ_Pad_Enable
-                0x0100caa0       0x26 ./src/gd3000.o
-                0x0100caa0                gd3000_Activ_Pad_Enable
- *fill*         0x0100cac6        0x2 
+                0x0100d1a8       0x26 ./src/gd3000.o
+                0x0100d1a8                gd3000_Activ_Pad_Enable
+ *fill*         0x0100d1ce        0x2 
  .text.gd3000_Inhib_Pad_Enable
-                0x0100cac8       0x26 ./src/gd3000.o
-                0x0100cac8                gd3000_Inhib_Pad_Enable
- *fill*         0x0100caee        0x2 
+                0x0100d1d0       0x26 ./src/gd3000.o
+                0x0100d1d0                gd3000_Inhib_Pad_Enable
+ *fill*         0x0100d1f6        0x2 
  .text.gd3000_Activ_Pad_Reset
-                0x0100caf0       0x26 ./src/gd3000.o
-                0x0100caf0                gd3000_Activ_Pad_Reset
- *fill*         0x0100cb16        0x2 
+                0x0100d1f8       0x26 ./src/gd3000.o
+                0x0100d1f8                gd3000_Activ_Pad_Reset
+ *fill*         0x0100d21e        0x2 
  .text.gd3000_Inhib_Pad_Reset
-                0x0100cb18       0x26 ./src/gd3000.o
-                0x0100cb18                gd3000_Inhib_Pad_Reset
- *fill*         0x0100cb3e        0x2 
+                0x0100d220       0x26 ./src/gd3000.o
+                0x0100d220                gd3000_Inhib_Pad_Reset
+ *fill*         0x0100d246        0x2 
  .text.gd3000_Reset
-                0x0100cb40       0x26 ./src/gd3000.o
-                0x0100cb40                gd3000_Reset
- *fill*         0x0100cb66        0x2 
+                0x0100d248       0x26 ./src/gd3000.o
+                0x0100d248                gd3000_Reset
+ *fill*         0x0100d26e        0x2 
  .text.gd3000_Config_GPIO
-                0x0100cb68      0x12a ./src/gd3000.o
-                0x0100cb68                gd3000_Config_GPIO
- *fill*         0x0100cc92        0x2 
+                0x0100d270      0x12a ./src/gd3000.o
+                0x0100d270                gd3000_Config_GPIO
+ *fill*         0x0100d39a        0x2 
  .text.gd3000_Config_DSPI
-                0x0100cc94       0x38 ./src/gd3000.o
-                0x0100cc94                gd3000_Config_DSPI
+                0x0100d39c       0x38 ./src/gd3000.o
+                0x0100d39c                gd3000_Config_DSPI
  .text.gd3000_Toggle_Pins_Init
-                0x0100cccc       0xac ./src/gd3000.o
-                0x0100cccc                gd3000_Toggle_Pins_Init
+                0x0100d3d4       0xac ./src/gd3000.o
+                0x0100d3d4                gd3000_Toggle_Pins_Init
  .text.gd3000_initialization_procedure
-                0x0100cd78       0x9e ./src/gd3000.o
-                0x0100cd78                gd3000_initialization_procedure
- *fill*         0x0100ce16        0x2 
+                0x0100d480       0x9e ./src/gd3000.o
+                0x0100d480                gd3000_initialization_procedure
+ *fill*         0x0100d51e        0x2 
  .text.gd3000_Config_Init
-                0x0100ce18       0x9c ./src/gd3000.o
-                0x0100ce18                gd3000_Config_Init
+                0x0100d520       0x9c ./src/gd3000.o
+                0x0100d520                gd3000_Config_Init
  .text.gd3000_read_reg
-                0x0100ceb4       0x48 ./src/gd3000.o
-                0x0100ceb4                gd3000_read_reg
+                0x0100d5bc       0x48 ./src/gd3000.o
+                0x0100d5bc                gd3000_read_reg
  .text.gd3000_read_write_reg
-                0x0100cefc       0x6a ./src/gd3000.o
-                0x0100cefc                gd3000_read_write_reg
- *fill*         0x0100cf66        0x2 
+                0x0100d604       0x6a ./src/gd3000.o
+                0x0100d604                gd3000_read_write_reg
+ *fill*         0x0100d66e        0x2 
  .text.gd3000_Config_FlexPWM0_BrasABC
-                0x0100cf68      0x268 ./src/gd3000.o
-                0x0100cf68                gd3000_Config_FlexPWM0_BrasABC
+                0x0100d670      0x268 ./src/gd3000.o
+                0x0100d670                gd3000_Config_FlexPWM0_BrasABC
  .text.gd3000_Update_DutyCycle_Cmd_PWM_ABC
-                0x0100d1d0      0x130 ./src/gd3000.o
-                0x0100d1d0                gd3000_Update_DutyCycle_Cmd_PWM_ABC
+                0x0100d8d8      0x130 ./src/gd3000.o
+                0x0100d8d8                gd3000_Update_DutyCycle_Cmd_PWM_ABC
  .text.gd3000_RunPWM_BrasABC
-                0x0100d300       0x2a ./src/gd3000.o
-                0x0100d300                gd3000_RunPWM_BrasABC
- *fill*         0x0100d32a        0x2 
+                0x0100da08       0x2a ./src/gd3000.o
+                0x0100da08                gd3000_RunPWM_BrasABC
+ *fill*         0x0100da32        0x2 
  .text.gd3000_Read_Status
-                0x0100d32c       0xf6 ./src/gd3000.o
-                0x0100d32c                gd3000_Read_Status
- *fill*         0x0100d422        0x2 
+                0x0100da34       0xf6 ./src/gd3000.o
+                0x0100da34                gd3000_Read_Status
+ *fill*         0x0100db2a        0x2 
  .text.ERQ_GD_INT_OCOUT_isr
-                0x0100d424       0x92 ./src/gd3000.o
-                0x0100d424                ERQ_GD_INT_OCOUT_isr
- *fill*         0x0100d4b6        0x2 
- .text.dummy    0x0100d4b8        0xc ./src/intc_SW_mode_isr_vectors_MPC5744P.o
-                0x0100d4b8                dummy
+                0x0100db2c       0x92 ./src/gd3000.o
+                0x0100db2c                ERQ_GD_INT_OCOUT_isr
+ *fill*         0x0100dbbe        0x2 
+ .text.dummy    0x0100dbc0        0xc ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+                0x0100dbc0                dummy
  .text.init_MCU_ClockAndMode
-                0x0100d4c4       0x6c ./src/main.o
-                0x0100d4c4                init_MCU_ClockAndMode
+                0x0100dbcc       0x6c ./src/main.o
+                0x0100dbcc                init_MCU_ClockAndMode
  .text.init_MCU_periph
-                0x0100d530       0x26 ./src/main.o
-                0x0100d530                init_MCU_periph
- *fill*         0x0100d556        0x2 
+                0x0100dc38       0x26 ./src/main.o
+                0x0100dc38                init_MCU_periph
+ *fill*         0x0100dc5e        0x2 
  .text.init_ISR_appli
-                0x0100d558       0x50 ./src/main.o
-                0x0100d558                init_ISR_appli
- .text.main     0x0100d5a8       0xd2 ./src/main.o
-                0x0100d5a8                main
- *fill*         0x0100d67a        0x2 
+                0x0100dc60       0x50 ./src/main.o
+                0x0100dc60                init_ISR_appli
+ .text.main     0x0100dcb0       0xd2 ./src/main.o
+                0x0100dcb0                main
+ *fill*         0x0100dd82        0x2 
  .text.ERQ_SW1_isr
-                0x0100d67c      0x16a ./src/main.o
-                0x0100d67c                ERQ_SW1_isr
- *fill*         0x0100d7e6        0x2 
+                0x0100dd84      0x16a ./src/main.o
+                0x0100dd84                ERQ_SW1_isr
+ *fill*         0x0100deee        0x2 
  .text.MLIB_Add_FLT
-                0x0100d7e8       0x1e ./src/modele_moteur_virtuel.o
- *fill*         0x0100d806        0x2 
+                0x0100def0       0x1e ./src/modele_moteur_virtuel.o
+ *fill*         0x0100df0e        0x2 
  .text.MLIB_Sub_FLT
-                0x0100d808       0x1e ./src/modele_moteur_virtuel.o
- *fill*         0x0100d826        0x2 
+                0x0100df10       0x1e ./src/modele_moteur_virtuel.o
+ *fill*         0x0100df2e        0x2 
  .text.MLIB_Mul_FLT
-                0x0100d828       0x1e ./src/modele_moteur_virtuel.o
- *fill*         0x0100d846        0x2 
+                0x0100df30       0x1e ./src/modele_moteur_virtuel.o
+ *fill*         0x0100df4e        0x2 
  .text.MLIB_Div_FLT
-                0x0100d848       0x1e ./src/modele_moteur_virtuel.o
- *fill*         0x0100d866        0x2 
+                0x0100df50       0x1e ./src/modele_moteur_virtuel.o
+ *fill*         0x0100df6e        0x2 
  .text.init_modele_moteur_virtuel
-                0x0100d868      0x260 ./src/modele_moteur_virtuel.o
-                0x0100d868                init_modele_moteur_virtuel
+                0x0100df70      0x260 ./src/modele_moteur_virtuel.o
+                0x0100df70                init_modele_moteur_virtuel
  .text.raz_variables_moteur_virtuel
-                0x0100dac8       0xa6 ./src/modele_moteur_virtuel.o
-                0x0100dac8                raz_variables_moteur_virtuel
- *fill*         0x0100db6e        0x2 
+                0x0100e1d0       0xa6 ./src/modele_moteur_virtuel.o
+                0x0100e1d0                raz_variables_moteur_virtuel
+ *fill*         0x0100e276        0x2 
  .text.Get_Phase_Current_Virtuel
-                0x0100db70      0x1ce ./src/modele_moteur_virtuel.o
-                0x0100db70                Get_Phase_Current_Virtuel
- *fill*         0x0100dd3e        0x2 
+                0x0100e278      0x1ce ./src/modele_moteur_virtuel.o
+                0x0100e278                Get_Phase_Current_Virtuel
+ *fill*         0x0100e446        0x2 
  .text.Get_Angle_Rotor_Virtuel
-                0x0100dd40      0x1b2 ./src/modele_moteur_virtuel.o
-                0x0100dd40                Get_Angle_Rotor_Virtuel
- *fill*         0x0100def2        0x2 
+                0x0100e448      0x1b2 ./src/modele_moteur_virtuel.o
+                0x0100e448                Get_Angle_Rotor_Virtuel
+ *fill*         0x0100e5fa        0x2 
  .text.MLIB_Add_FLT
-                0x0100def4       0x1e ./src/pga411.o
- *fill*         0x0100df12        0x2 
+                0x0100e5fc       0x1e ./src/pga411.o
+ *fill*         0x0100e61a        0x2 
  .text.MLIB_Sub_FLT
-                0x0100df14       0x1e ./src/pga411.o
- *fill*         0x0100df32        0x2 
+                0x0100e61c       0x1e ./src/pga411.o
+ *fill*         0x0100e63a        0x2 
  .text.MLIB_Mul_FLT
-                0x0100df34       0x1e ./src/pga411.o
- *fill*         0x0100df52        0x2 
+                0x0100e63c       0x1e ./src/pga411.o
+ *fill*         0x0100e65a        0x2 
  .text.MLIB_Div_FLT
-                0x0100df54       0x1e ./src/pga411.o
- *fill*         0x0100df72        0x2 
+                0x0100e65c       0x1e ./src/pga411.o
+ *fill*         0x0100e67a        0x2 
  .text.pga411_init_IO
-                0x0100df74       0x70 ./src/pga411.o
-                0x0100df74                pga411_init_IO
+                0x0100e67c       0x70 ./src/pga411.o
+                0x0100e67c                pga411_init_IO
  .text.pga411_init_SPI
-                0x0100dfe4       0x38 ./src/pga411.o
-                0x0100dfe4                pga411_init_SPI
+                0x0100e6ec       0x38 ./src/pga411.o
+                0x0100e6ec                pga411_init_SPI
  .text.pga411_reset
-                0x0100e01c       0x40 ./src/pga411.o
-                0x0100e01c                pga411_reset
+                0x0100e724       0x40 ./src/pga411.o
+                0x0100e724                pga411_reset
  .text.pga411_config
-                0x0100e05c       0xb8 ./src/pga411.o
-                0x0100e05c                pga411_config
+                0x0100e764       0xb8 ./src/pga411.o
+                0x0100e764                pga411_config
  .text.pga411_Config_Init
-                0x0100e114       0x80 ./src/pga411.o
-                0x0100e114                pga411_Config_Init
+                0x0100e81c       0x80 ./src/pga411.o
+                0x0100e81c                pga411_Config_Init
  .text.pga411_set_resolution
-                0x0100e194       0x3e ./src/pga411.o
-                0x0100e194                pga411_set_resolution
- *fill*         0x0100e1d2        0x2 
+                0x0100e89c       0x3e ./src/pga411.o
+                0x0100e89c                pga411_set_resolution
+ *fill*         0x0100e8da        0x2 
  .text.pga411_Change_State
-                0x0100e1d4       0x78 ./src/pga411.o
-                0x0100e1d4                pga411_Change_State
+                0x0100e8dc       0x78 ./src/pga411.o
+                0x0100e8dc                pga411_Change_State
  .text.pga411_DeviceUnlock
-                0x0100e24c       0x42 ./src/pga411.o
-                0x0100e24c                pga411_DeviceUnlock
- *fill*         0x0100e28e        0x2 
+                0x0100e954       0x42 ./src/pga411.o
+                0x0100e954                pga411_DeviceUnlock
+ *fill*         0x0100e996        0x2 
  .text.pga411_ReadReg
-                0x0100e290       0x50 ./src/pga411.o
-                0x0100e290                pga411_ReadReg
+                0x0100e998       0x50 ./src/pga411.o
+                0x0100e998                pga411_ReadReg
  .text.pga411_ReadReg_CRC_connu_OneRead
-                0x0100e2e0       0x44 ./src/pga411.o
-                0x0100e2e0                pga411_ReadReg_CRC_connu_OneRead
+                0x0100e9e8       0x44 ./src/pga411.o
+                0x0100e9e8                pga411_ReadReg_CRC_connu_OneRead
  .text.pga411_WriteReg
-                0x0100e324       0x3a ./src/pga411.o
-                0x0100e324                pga411_WriteReg
- *fill*         0x0100e35e        0x2 
+                0x0100ea2c       0x3a ./src/pga411.o
+                0x0100ea2c                pga411_WriteReg
+ *fill*         0x0100ea66        0x2 
  .text.pga411_XmitSPI
-                0x0100e360       0xea ./src/pga411.o
-                0x0100e360                pga411_XmitSPI
- *fill*         0x0100e44a        0x2 
+                0x0100ea68       0xea ./src/pga411.o
+                0x0100ea68                pga411_XmitSPI
+ *fill*         0x0100eb52        0x2 
  .text.pga411_XmitSPI_no_CRC_compute
-                0x0100e44c       0xb8 ./src/pga411.o
-                0x0100e44c                pga411_XmitSPI_no_CRC_compute
+                0x0100eb54       0xb8 ./src/pga411.o
+                0x0100eb54                pga411_XmitSPI_no_CRC_compute
  .text.pga411_Compute_CRC6
-                0x0100e504       0xf0 ./src/pga411.o
-                0x0100e504                pga411_Compute_CRC6
+                0x0100ec0c       0xf0 ./src/pga411.o
+                0x0100ec0c                pga411_Compute_CRC6
  .text.Toggle_FaultRes_Pin
-                0x0100e5f4       0x36 ./src/pga411.o
-                0x0100e5f4                Toggle_FaultRes_Pin
- *fill*         0x0100e62a        0x2 
+                0x0100ecfc       0x36 ./src/pga411.o
+                0x0100ecfc                Toggle_FaultRes_Pin
+ *fill*         0x0100ed32        0x2 
  .text.pga411_Sfault_status
-                0x0100e62c       0x52 ./src/pga411.o
-                0x0100e62c                pga411_Sfault_status
- *fill*         0x0100e67e        0x2 
+                0x0100ed34       0x52 ./src/pga411.o
+                0x0100ed34                pga411_Sfault_status
+ *fill*         0x0100ed86        0x2 
  .text.pga411_FaultPin_status
-                0x0100e680       0x2e ./src/pga411.o
-                0x0100e680                pga411_FaultPin_status
- *fill*         0x0100e6ae        0x2 
+                0x0100ed88       0x2e ./src/pga411.o
+                0x0100ed88                pga411_FaultPin_status
+ *fill*         0x0100edb6        0x2 
  .text.pga411_GetFault_status
-                0x0100e6b0       0x3c ./src/pga411.o
-                0x0100e6b0                pga411_GetFault_status
+                0x0100edb8       0x3c ./src/pga411.o
+                0x0100edb8                pga411_GetFault_status
  .text.Convert_AngleElec_Rad_FLT
-                0x0100e6ec      0x2e0 ./src/pga411.o
-                0x0100e6ec                Convert_AngleElec_Rad_FLT
+                0x0100edf4      0x2e0 ./src/pga411.o
+                0x0100edf4                Convert_AngleElec_Rad_FLT
  .text.Convert_AngleMeca_Rad_FLT
-                0x0100e9cc      0x160 ./src/pga411.o
-                0x0100e9cc                Convert_AngleMeca_Rad_FLT
+                0x0100f0d4      0x160 ./src/pga411.o
+                0x0100f0d4                Convert_AngleMeca_Rad_FLT
  .text.Adapt_Angle_minus_pi_plus_pi_FLT
-                0x0100eb2c       0xde ./src/pga411.o
-                0x0100eb2c                Adapt_Angle_minus_pi_plus_pi_FLT
- *fill*         0x0100ec0a        0x2 
+                0x0100f234       0xde ./src/pga411.o
+                0x0100f234                Adapt_Angle_minus_pi_plus_pi_FLT
+ *fill*         0x0100f312        0x2 
  .text.ERQ_PGA411_Fault_isr
-                0x0100ec0c       0x5e ./src/pga411.o
-                0x0100ec0c                ERQ_PGA411_Fault_isr
- *fill*         0x0100ec6a        0x2 
+                0x0100f314       0x5e ./src/pga411.o
+                0x0100f314                ERQ_PGA411_Fault_isr
+ *fill*         0x0100f372        0x2 
  .text.GFLIB_Sign_FLT
-                0x0100ec6c       0x20 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GFLIB_Sign_c.o)
-                0x0100ec6c                GFLIB_Sign_FLT
+                0x0100f374       0x20 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GFLIB_Sign_c.o)
+                0x0100f374                GFLIB_Sign_FLT
  .text.GFLIB_SinCos_FLT
-                0x0100ec8c      0x120 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GFLIB_SinCos_c.o)
-                0x0100ec8c                GFLIB_SinCos_FLT
+                0x0100f394      0x120 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GFLIB_SinCos_c.o)
+                0x0100f394                GFLIB_SinCos_FLT
  .text.GMCLIB_ClarkInv_FLT
-                0x0100edac       0x30 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_ClarkInv_c.o)
-                0x0100edac                GMCLIB_ClarkInv_FLT
+                0x0100f4b4       0x30 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_ClarkInv_c.o)
+                0x0100f4b4                GMCLIB_ClarkInv_FLT
  .text.GMCLIB_Clark_FLT
-                0x0100eddc       0x26 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_Clark_c.o)
-                0x0100eddc                GMCLIB_Clark_FLT
- *fill*         0x0100ee02        0x2 
+                0x0100f4e4       0x26 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_Clark_c.o)
+                0x0100f4e4                GMCLIB_Clark_FLT
+ *fill*         0x0100f50a        0x2 
  .text.GMCLIB_ParkInv_FLT
-                0x0100ee04       0x56 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_ParkInv_c.o)
-                0x0100ee04                GMCLIB_ParkInv_FLT
- *fill*         0x0100ee5a        0x2 
+                0x0100f50c       0x56 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_ParkInv_c.o)
+                0x0100f50c                GMCLIB_ParkInv_FLT
+ *fill*         0x0100f562        0x2 
  .text.GMCLIB_Park_FLT
-                0x0100ee5c       0x56 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_Park_c.o)
-                0x0100ee5c                GMCLIB_Park_FLT
+                0x0100f564       0x56 C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GMCLIB_Park_c.o)
+                0x0100f564                GMCLIB_Park_FLT
  *(.init)
- *fill*         0x0100eeb2        0x2 
- .init          0x0100eeb4        0xc c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
-                0x0100eeb4                __init
- .init          0x0100eec0        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
- .init          0x0100eec4        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
- .init          0x0100eec8        0xa c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ *fill*         0x0100f5ba        0x2 
+ .init          0x0100f5bc        0xc c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x0100f5bc                __init
+ .init          0x0100f5c8        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .init          0x0100f5cc        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .init          0x0100f5d0        0xa c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
  *(.fini)
- *fill*         0x0100eed2        0x2 
- .fini          0x0100eed4        0xc c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
-                0x0100eed4                __fini
- .fini          0x0100eee0        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
- .fini          0x0100eee4        0xa c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
-                0x0100eef0                . = ALIGN (0x10)
- *fill*         0x0100eeee        0x2 
+ *fill*         0x0100f5da        0x2 
+ .fini          0x0100f5dc        0xc c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x0100f5dc                __fini
+ .fini          0x0100f5e8        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .fini          0x0100f5ec        0xa c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x0100f600                . = ALIGN (0x10)
+ *fill*         0x0100f5f6        0xa 
 
-.glink          0x0100eef0        0x0
- .glink         0x0100eef0        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+.glink          0x0100f600        0x0
+ .glink         0x0100f600        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
 
-.ctors          0x0100eef0        0x8
-                0x0100eef0                __CTOR_LIST__ = .
+.ctors          0x0100f600        0x8
+                0x0100f600                __CTOR_LIST__ = .
  *crtbegin.o(.ctors)
- .ctors         0x0100eef0        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .ctors         0x0100f600        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  *crtbegin?.o(.ctors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
- .ctors         0x0100eef4        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
- .ctors         0x0100eef4        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .ctors         0x0100f604        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .ctors         0x0100f604        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
  *(SORT(.ctors.*))
  *(.ctors)
- .ctors         0x0100eef4        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
-                0x0100eef8                __CTOR_END__ = .
+ .ctors         0x0100f604        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x0100f608                __CTOR_END__ = .
 
-.dtors          0x0100eef8        0x8
-                0x0100eef8                __DTOR_LIST__ = .
+.dtors          0x0100f608        0x8
+                0x0100f608                __DTOR_LIST__ = .
  *crtbegin.o(.dtors)
- .dtors         0x0100eef8        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .dtors         0x0100f608        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  *crtbegin?.o(.dtors)
  *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
- .dtors         0x0100eefc        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
- .dtors         0x0100eefc        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+ .dtors         0x0100f60c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+ .dtors         0x0100f60c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
  *(SORT(.dtors.*))
  *(.dtors)
- .dtors         0x0100eefc        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
-                0x0100ef00                __DTOR_END__ = .
+ .dtors         0x0100f60c        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x0100f610                __DTOR_END__ = .
 
-.preinit_array  0x0100ef00        0x0
+.preinit_array  0x0100f610        0x0
                 [!provide]                PROVIDE (__preinit_array_start, .)
  *(.preinit_array*)
                 [!provide]                PROVIDE (__preinit_array_end, .)
 
-.init_array     0x0100ef00        0x0
+.init_array     0x0100f610        0x0
                 [!provide]                PROVIDE (__init_array_start, .)
  *(SORT(.init_array.*))
  *(.init_array*)
                 [!provide]                PROVIDE (__init_array_end, .)
 
-.fini_array     0x0100ef00        0x0
+.fini_array     0x0100f610        0x0
                 [!provide]                PROVIDE (__fini_array_start, .)
  *(SORT(.fini_array.*))
  *(.fini_array*)
                 [!provide]                PROVIDE (__fini_array_end, .)
 
-.rodata         0x0100ef00      0x244
+.rodata         0x0100f610      0x25c
  *(.rodata)
- .rodata        0x0100ef00       0x18 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+ .rodata        0x0100f610       0x18 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+ .rodata        0x0100f628       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_thenan_df.o)
+                0x0100f628                __thenan_df
  *(.rodata.*)
  .rodata.ADC_SelectChannel_NormalConv
-                0x0100ef18      0x100 ./src/ConfigADC.o
+                0x0100f640      0x100 ./src/ConfigADC.o
  .rodata.ADC_ChannelMask_ISR
-                0x0100f018      0x100 ./src/ConfigADC.o
+                0x0100f740      0x100 ./src/ConfigADC.o
  .rodata.InitPWM0_Sub_OpMode
-                0x0100f118       0x10 ./src/ConfigPWM.o
+                0x0100f840       0x10 ./src/ConfigPWM.o
  .rodata.Activate_PWM0_Output
-                0x0100f128       0x10 ./src/ConfigPWM.o
+                0x0100f850       0x10 ./src/ConfigPWM.o
  .rodata.fltgflibSinCosCoef
-                0x0100f138        0xc C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GFLIB_SinCos_c.o)
-                0x0100f138                fltgflibSinCosCoef
+                0x0100f860        0xc C:/NXP/S32DS_Power_v2.1/S32DS/software/AMMCLIB_1.1.15/MPC574xP_AMMCLIB_v1.1.15/lib/s32ds_ppc\MPC574xP_AMMCLIB.a(GFLIB_SinCos_c.o)
+                0x0100f860                fltgflibSinCosCoef
  *(.got1)
 
 .eh_frame_hdr
  *(.eh_frame_hdr)
 
-.eh_frame       0x0100f144        0x8
+.eh_frame       0x0100f86c        0x8
  *(.eh_frame)
- .eh_frame      0x0100f144        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
-                0x0100f144                __EH_FRAME_BEGIN__
- .eh_frame      0x0100f144        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
- .eh_frame      0x0100f144        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
- .eh_frame      0x0100f144        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
- .eh_frame      0x0100f148        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
-                0x0100f148                __EH_FRAME_END__
+ .eh_frame      0x0100f86c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
+                0x0100f86c                __EH_FRAME_BEGIN__
+ .eh_frame      0x0100f86c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x0100f86c        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
+ .eh_frame      0x0100f86c        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .eh_frame      0x0100f870        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x0100f870                __EH_FRAME_END__
 
-.data           0x40000000       0xf8 load address 0x0100f14c
+.data           0x40000000       0xf8 load address 0x0100f874
  *(.data)
  .data          0x40000000        0x4 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
  *(.data.*)
@@ -2933,28 +2978,28 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
  *(.fixup)
                 0x400000f8                . = ALIGN (0x4)
 
-.jcr            0x400000f8        0x0 load address 0x0100f244
+.jcr            0x400000f8        0x0 load address 0x0100f96c
  .jcr           0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
 
 .tm_clone_table
-                0x400000f8        0x0 load address 0x0100f244
+                0x400000f8        0x0 load address 0x0100f96c
  .tm_clone_table
                 0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  .tm_clone_table
                 0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
 
-.sdata2         0x400000f8        0x0 load address 0x0100f244
+.sdata2         0x400000f8        0x0 load address 0x0100f96c
  *(.sdata2)
  .sdata2        0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
  .sdata2        0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  *(.sdata2.*)
 
-.sbss2          0x400000f8        0x0 load address 0x0100f244
+.sbss2          0x400000f8        0x0 load address 0x0100f96c
  *(.sbss2)
  .sbss2         0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
  *(.sbss2.*)
 
-.rela.dyn       0x400000f8        0x0 load address 0x0100f244
+.rela.dyn       0x400000f8        0x0 load address 0x0100f96c
  .rela.iplt     0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  .rela.text     0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  .rela.text.FMSTR_InitRec
@@ -3039,7 +3084,7 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
                 0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
  .rela.got2     0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
 
-.sdata          0x400000f8        0x4 load address 0x0100f244
+.sdata          0x400000f8        0x4 load address 0x0100f96c
  *(.sdata)
  .sdata         0x400000f8        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrti.o
                 0x400000f8                __SDATA_START__
@@ -3050,7 +3095,7 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
                 0x400000f8        0x4 ./src/main.o
                 0x400000f8                MyVitesse_for_Consigne
 
-.bss            0x400000fc      0x5b0 load address 0x0100f248
+.bss            0x400000fc      0x5b0 load address 0x0100f970
                 0x400000fc                __BSS_START = .
  *(.sbss)
  .sbss          0x400000fc        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
@@ -3217,7 +3262,7 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
                 0x4000069c                PGA411_Status
                 0x400006ac                __BSS_END = .
 
-.iplt           0x400006b0        0x0 load address 0x0100f248
+.iplt           0x400006b0        0x0 load address 0x0100f970
  .iplt          0x400006b0        0x0 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtbegin.o
 
 .stack          0x50800000     0x1004
@@ -3237,8 +3282,8 @@ LOAD c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gc
                 0x400000f8                __SDATA_SRAM_ADDR = ADDR (.sdata)
                 0x000000f8                __DATA_SIZE = SIZEOF (.data)
                 0x00000004                __SDATA_SIZE = SIZEOF (.sdata)
-                0x0100f14c                __DATA_ROM_ADDR = LOADADDR (.data)
-                0x0100f244                __SDATA_ROM_ADDR = LOADADDR (.sdata)
+                0x0100f874                __DATA_ROM_ADDR = LOADADDR (.data)
+                0x0100f96c                __SDATA_ROM_ADDR = LOADADDR (.sdata)
                 0x00060000                __SRAM_SIZE = SRAM_SIZE
                 0x40000000                __SRAM_BASE_ADDR = SRAM_BASE_ADDR
                 0x00010000                __LOCAL_DMEM_SIZE = LOCALDMEM_SIZE
@@ -3378,27 +3423,39 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .PPC.EMB.apuinfo
                 0x000003e8       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
  .PPC.EMB.apuinfo
-                0x00000400       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
+                0x00000400       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
  .PPC.EMB.apuinfo
-                0x00000418       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
+                0x00000418       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
  .PPC.EMB.apuinfo
-                0x00000430       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
+                0x00000430       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
  .PPC.EMB.apuinfo
-                0x00000448       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
+                0x00000448       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
  .PPC.EMB.apuinfo
-                0x00000460       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
+                0x00000460       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
  .PPC.EMB.apuinfo
-                0x00000478       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
+                0x00000478       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
  .PPC.EMB.apuinfo
-                0x00000490       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
+                0x00000490       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
  .PPC.EMB.apuinfo
-                0x000004a8       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
+                0x000004a8       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
  .PPC.EMB.apuinfo
-                0x000004c0       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
+                0x000004c0       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(eabivle.o)
  .PPC.EMB.apuinfo
-                0x000004d8       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+                0x000004d8       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
  .PPC.EMB.apuinfo
-                0x000004f0       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
+                0x000004f0       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
+ .PPC.EMB.apuinfo
+                0x00000508       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
+ .PPC.EMB.apuinfo
+                0x00000520       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
+ .PPC.EMB.apuinfo
+                0x00000538       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
+ .PPC.EMB.apuinfo
+                0x00000550       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
+ .PPC.EMB.apuinfo
+                0x00000568       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/crtend.o
+ .PPC.EMB.apuinfo
+                0x00000580       0x18 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp/ecrtn.o
 
 .gnu.attributes
                 0x00000000       0x12
@@ -3421,17 +3478,29 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .gnu.attributes
                 0x00000086       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
  .gnu.attributes
-                0x00000096       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
+                0x00000096       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
  .gnu.attributes
-                0x000000a6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
+                0x000000a6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
  .gnu.attributes
-                0x000000b6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
+                0x000000b6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
  .gnu.attributes
-                0x000000c6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
+                0x000000c6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
  .gnu.attributes
-                0x000000d6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
+                0x000000d6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
+ .gnu.attributes
+                0x000000e6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
+ .gnu.attributes
+                0x000000f6       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
+ .gnu.attributes
+                0x00000106       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
+ .gnu.attributes
+                0x00000116       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
+ .gnu.attributes
+                0x00000126       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
+ .gnu.attributes
+                0x00000136       0x10 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
 
-.debug_info     0x00000000    0x20378
+.debug_info     0x00000000    0x20386
  .debug_info    0x00000000      0x427 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .debug_info    0x00000427       0xec ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
  .debug_info    0x00000513     0x11e5 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
@@ -3443,30 +3512,30 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_info    0x000028e0      0x243 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
  .debug_info    0x00002b23       0x93 ./Project_Settings/Startup_Code/startup.o
  .debug_info    0x00002bb6     0x2916 ./src/ClockConfig.o
- .debug_info    0x000054cc      0x764 ./src/Cmd_moteur.o
- .debug_info    0x00005c30     0x2b6a ./src/ConfigADC.o
- .debug_info    0x0000879a     0x1b99 ./src/ConfigCTU.o
- .debug_info    0x0000a333     0x1729 ./src/ConfigGPIO.o
- .debug_info    0x0000ba5c      0x4b8 ./src/ConfigPIT.o
- .debug_info    0x0000bf14     0x165d ./src/ConfigPWM.o
- .debug_info    0x0000d571     0x2316 ./src/Config_eDMA.o
- .debug_info    0x0000f887     0x2c44 ./src/Current_Sensor.o
- .debug_info    0x000124cb     0x2188 ./src/DSPIConfig.o
- .debug_info    0x00014653      0x5d8 ./src/MPC57xx__Interrupt_Init.o
- .debug_info    0x00014c2b     0x2790 ./src/ModeEntryAndConfig.o
- .debug_info    0x000173bb     0x258e ./src/UARTConfig.o
- .debug_info    0x00019949       0x81 ./src/User_Interface.o
- .debug_info    0x000199ca       0x21 ./src/Vector.o
- .debug_info    0x000199eb      0xe98 ./src/eTimer.o
- .debug_info    0x0001a883       0x93 ./src/flashrchw.o
- .debug_info    0x0001a916     0x18be ./src/gd3000.o
- .debug_info    0x0001c1d4       0xb4 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
- .debug_info    0x0001c288       0x82 ./src/intc_sw_handlers.o
- .debug_info    0x0001c30a     0x1ab0 ./src/main.o
- .debug_info    0x0001ddba      0x424 ./src/modele_moteur_virtuel.o
- .debug_info    0x0001e1de     0x219a ./src/pga411.o
+ .debug_info    0x000054cc      0x772 ./src/Cmd_moteur.o
+ .debug_info    0x00005c3e     0x2b6a ./src/ConfigADC.o
+ .debug_info    0x000087a8     0x1b99 ./src/ConfigCTU.o
+ .debug_info    0x0000a341     0x1729 ./src/ConfigGPIO.o
+ .debug_info    0x0000ba6a      0x4b8 ./src/ConfigPIT.o
+ .debug_info    0x0000bf22     0x165d ./src/ConfigPWM.o
+ .debug_info    0x0000d57f     0x2316 ./src/Config_eDMA.o
+ .debug_info    0x0000f895     0x2c44 ./src/Current_Sensor.o
+ .debug_info    0x000124d9     0x2188 ./src/DSPIConfig.o
+ .debug_info    0x00014661      0x5d8 ./src/MPC57xx__Interrupt_Init.o
+ .debug_info    0x00014c39     0x2790 ./src/ModeEntryAndConfig.o
+ .debug_info    0x000173c9     0x258e ./src/UARTConfig.o
+ .debug_info    0x00019957       0x81 ./src/User_Interface.o
+ .debug_info    0x000199d8       0x21 ./src/Vector.o
+ .debug_info    0x000199f9      0xe98 ./src/eTimer.o
+ .debug_info    0x0001a891       0x93 ./src/flashrchw.o
+ .debug_info    0x0001a924     0x18be ./src/gd3000.o
+ .debug_info    0x0001c1e2       0xb4 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_info    0x0001c296       0x82 ./src/intc_sw_handlers.o
+ .debug_info    0x0001c318     0x1ab0 ./src/main.o
+ .debug_info    0x0001ddc8      0x424 ./src/modele_moteur_virtuel.o
+ .debug_info    0x0001e1ec     0x219a ./src/pga411.o
 
-.debug_abbrev   0x00000000     0x2a76
+.debug_abbrev   0x00000000     0x2a5a
  .debug_abbrev  0x00000000      0x14e ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .debug_abbrev  0x0000014e       0x7b ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
  .debug_abbrev  0x000001c9      0x201 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
@@ -3478,28 +3547,28 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_abbrev  0x00000a22       0xc9 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
  .debug_abbrev  0x00000aeb       0x14 ./Project_Settings/Startup_Code/startup.o
  .debug_abbrev  0x00000aff      0x189 ./src/ClockConfig.o
- .debug_abbrev  0x00000c88      0x20f ./src/Cmd_moteur.o
- .debug_abbrev  0x00000e97      0x1c7 ./src/ConfigADC.o
- .debug_abbrev  0x0000105e      0x159 ./src/ConfigCTU.o
- .debug_abbrev  0x000011b7      0x16f ./src/ConfigGPIO.o
- .debug_abbrev  0x00001326      0x180 ./src/ConfigPIT.o
- .debug_abbrev  0x000014a6      0x1df ./src/ConfigPWM.o
- .debug_abbrev  0x00001685      0x173 ./src/Config_eDMA.o
- .debug_abbrev  0x000017f8      0x20e ./src/Current_Sensor.o
- .debug_abbrev  0x00001a06      0x220 ./src/DSPIConfig.o
- .debug_abbrev  0x00001c26      0x16e ./src/MPC57xx__Interrupt_Init.o
- .debug_abbrev  0x00001d94      0x166 ./src/ModeEntryAndConfig.o
- .debug_abbrev  0x00001efa      0x18e ./src/UARTConfig.o
- .debug_abbrev  0x00002088       0x45 ./src/User_Interface.o
- .debug_abbrev  0x000020cd       0x13 ./src/Vector.o
- .debug_abbrev  0x000020e0      0x15d ./src/eTimer.o
- .debug_abbrev  0x0000223d       0x4e ./src/flashrchw.o
- .debug_abbrev  0x0000228b      0x1dd ./src/gd3000.o
- .debug_abbrev  0x00002468       0x7c ./src/intc_SW_mode_isr_vectors_MPC5744P.o
- .debug_abbrev  0x000024e4       0x14 ./src/intc_sw_handlers.o
- .debug_abbrev  0x000024f8      0x164 ./src/main.o
- .debug_abbrev  0x0000265c      0x144 ./src/modele_moteur_virtuel.o
- .debug_abbrev  0x000027a0      0x2d6 ./src/pga411.o
+ .debug_abbrev  0x00000c88      0x1f3 ./src/Cmd_moteur.o
+ .debug_abbrev  0x00000e7b      0x1c7 ./src/ConfigADC.o
+ .debug_abbrev  0x00001042      0x159 ./src/ConfigCTU.o
+ .debug_abbrev  0x0000119b      0x16f ./src/ConfigGPIO.o
+ .debug_abbrev  0x0000130a      0x180 ./src/ConfigPIT.o
+ .debug_abbrev  0x0000148a      0x1df ./src/ConfigPWM.o
+ .debug_abbrev  0x00001669      0x173 ./src/Config_eDMA.o
+ .debug_abbrev  0x000017dc      0x20e ./src/Current_Sensor.o
+ .debug_abbrev  0x000019ea      0x220 ./src/DSPIConfig.o
+ .debug_abbrev  0x00001c0a      0x16e ./src/MPC57xx__Interrupt_Init.o
+ .debug_abbrev  0x00001d78      0x166 ./src/ModeEntryAndConfig.o
+ .debug_abbrev  0x00001ede      0x18e ./src/UARTConfig.o
+ .debug_abbrev  0x0000206c       0x45 ./src/User_Interface.o
+ .debug_abbrev  0x000020b1       0x13 ./src/Vector.o
+ .debug_abbrev  0x000020c4      0x15d ./src/eTimer.o
+ .debug_abbrev  0x00002221       0x4e ./src/flashrchw.o
+ .debug_abbrev  0x0000226f      0x1dd ./src/gd3000.o
+ .debug_abbrev  0x0000244c       0x7c ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_abbrev  0x000024c8       0x14 ./src/intc_sw_handlers.o
+ .debug_abbrev  0x000024dc      0x164 ./src/main.o
+ .debug_abbrev  0x00002640      0x144 ./src/modele_moteur_virtuel.o
+ .debug_abbrev  0x00002784      0x2d6 ./src/pga411.o
 
 .debug_aranges  0x00000000      0xd88
  .debug_aranges
@@ -3600,7 +3669,7 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_ranges  0x000009a8       0x48 ./src/modele_moteur_virtuel.o
  .debug_ranges  0x000009f0      0x158 ./src/pga411.o
 
-.debug_macro    0x00000000    0x1c325
+.debug_macro    0x00000000    0x1c589
  .debug_macro   0x00000000       0x86 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .debug_macro   0x00000086      0x61c ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .debug_macro   0x000006a2       0x52 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
@@ -3638,113 +3707,118 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_macro   0x00001d7a       0x58 ./src/ClockConfig.o
  .debug_macro   0x00001dd2      0x795 ./src/ClockConfig.o
  .debug_macro   0x00002567     0xb511 ./src/ClockConfig.o
- .debug_macro   0x0000da78      0x3a4 ./src/Cmd_moteur.o
- .debug_macro   0x0000de1c       0x61 ./src/Cmd_moteur.o
- .debug_macro   0x0000de7d       0x28 ./src/Cmd_moteur.o
- .debug_macro   0x0000dea5       0x24 ./src/Cmd_moteur.o
- .debug_macro   0x0000dec9       0xb2 ./src/Cmd_moteur.o
- .debug_macro   0x0000df7b      0x112 ./src/Cmd_moteur.o
- .debug_macro   0x0000e08d       0x22 ./src/Cmd_moteur.o
- .debug_macro   0x0000e0af      0x1ad ./src/Cmd_moteur.o
- .debug_macro   0x0000e25c       0x24 ./src/Cmd_moteur.o
- .debug_macro   0x0000e280       0x1d ./src/Cmd_moteur.o
- .debug_macro   0x0000e29d       0x1d ./src/Cmd_moteur.o
- .debug_macro   0x0000e2ba       0x18 ./src/Cmd_moteur.o
- .debug_macro   0x0000e2d2       0x24 ./src/Cmd_moteur.o
- .debug_macro   0x0000e2f6       0x1d ./src/Cmd_moteur.o
- .debug_macro   0x0000e313       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000e336       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e354       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000e377       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e395       0x25 ./src/Cmd_moteur.o
- .debug_macro   0x0000e3ba       0x1d ./src/Cmd_moteur.o
- .debug_macro   0x0000e3d7       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e3f5       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e413       0x1f ./src/Cmd_moteur.o
- .debug_macro   0x0000e432       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e450       0x1d ./src/Cmd_moteur.o
- .debug_macro   0x0000e46d       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e48b       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e4a9       0x1d ./src/Cmd_moteur.o
- .debug_macro   0x0000e4c6       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e4e4       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e502       0x24 ./src/Cmd_moteur.o
- .debug_macro   0x0000e526       0x1f ./src/Cmd_moteur.o
- .debug_macro   0x0000e545       0x1e ./src/Cmd_moteur.o
- .debug_macro   0x0000e563       0x24 ./src/Cmd_moteur.o
- .debug_macro   0x0000e587       0x49 ./src/Cmd_moteur.o
- .debug_macro   0x0000e5d0       0x4f ./src/Cmd_moteur.o
- .debug_macro   0x0000e61f       0x4f ./src/Cmd_moteur.o
- .debug_macro   0x0000e66e       0x4f ./src/Cmd_moteur.o
- .debug_macro   0x0000e6bd       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000e6e0       0x7e ./src/Cmd_moteur.o
- .debug_macro   0x0000e75e       0x7e ./src/Cmd_moteur.o
- .debug_macro   0x0000e7dc       0x7e ./src/Cmd_moteur.o
- .debug_macro   0x0000e85a       0x7e ./src/Cmd_moteur.o
- .debug_macro   0x0000e8d8       0x4f ./src/Cmd_moteur.o
- .debug_macro   0x0000e927       0x4f ./src/Cmd_moteur.o
- .debug_macro   0x0000e976       0x4f ./src/Cmd_moteur.o
- .debug_macro   0x0000e9c5       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000e9e8       0x22 ./src/Cmd_moteur.o
- .debug_macro   0x0000ea0a       0x46 ./src/Cmd_moteur.o
- .debug_macro   0x0000ea50       0x46 ./src/Cmd_moteur.o
- .debug_macro   0x0000ea96       0x47 ./src/Cmd_moteur.o
- .debug_macro   0x0000eadd       0x46 ./src/Cmd_moteur.o
- .debug_macro   0x0000eb23       0x47 ./src/Cmd_moteur.o
- .debug_macro   0x0000eb6a       0x47 ./src/Cmd_moteur.o
- .debug_macro   0x0000ebb1       0x46 ./src/Cmd_moteur.o
- .debug_macro   0x0000ebf7       0x47 ./src/Cmd_moteur.o
- .debug_macro   0x0000ec3e       0x46 ./src/Cmd_moteur.o
- .debug_macro   0x0000ec84       0x2a ./src/Cmd_moteur.o
- .debug_macro   0x0000ecae       0x3b ./src/Cmd_moteur.o
- .debug_macro   0x0000ece9       0x3b ./src/Cmd_moteur.o
- .debug_macro   0x0000ed24       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000ed47       0x7e ./src/Cmd_moteur.o
- .debug_macro   0x0000edc5       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000ede8       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000ee0b       0x22 ./src/Cmd_moteur.o
- .debug_macro   0x0000ee2d       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000ee50       0x23 ./src/Cmd_moteur.o
- .debug_macro   0x0000ee73       0x47 ./src/Cmd_moteur.o
- .debug_macro   0x0000eeba       0x48 ./src/Cmd_moteur.o
- .debug_macro   0x0000ef02      0x166 ./src/Cmd_moteur.o
- .debug_macro   0x0000f068       0xa6 ./src/Cmd_moteur.o
- .debug_macro   0x0000f10e      0x100 ./src/Cmd_moteur.o
- .debug_macro   0x0000f20e       0x2e ./src/Cmd_moteur.o
- .debug_macro   0x0000f23c       0x2e ./src/Cmd_moteur.o
- .debug_macro   0x0000f26a       0xbb ./src/ConfigADC.o
- .debug_macro   0x0000f325     0xb50a ./src/ConfigADC.o
- .debug_macro   0x0001a82f       0xbb ./src/ConfigCTU.o
- .debug_macro   0x0001a8ea       0x2e ./src/ConfigCTU.o
- .debug_macro   0x0001a918       0xbb ./src/ConfigGPIO.o
- .debug_macro   0x0001a9d3       0xc4 ./src/ConfigPIT.o
- .debug_macro   0x0001aa97       0xc4 ./src/ConfigPWM.o
- .debug_macro   0x0001ab5b      0x142 ./src/ConfigPWM.o
- .debug_macro   0x0001ac9d       0xbb ./src/Config_eDMA.o
- .debug_macro   0x0001ad58       0x52 ./src/Config_eDMA.o
- .debug_macro   0x0001adaa      0x22f ./src/Current_Sensor.o
- .debug_macro   0x0001afd9      0x1a7 ./src/Current_Sensor.o
- .debug_macro   0x0001b180       0x1e ./src/Current_Sensor.o
- .debug_macro   0x0001b19e       0xee ./src/DSPIConfig.o
- .debug_macro   0x0001b28c       0xca ./src/DSPIConfig.o
- .debug_macro   0x0001b356       0xd1 ./src/MPC57xx__Interrupt_Init.o
- .debug_macro   0x0001b427       0x2e ./src/MPC57xx__Interrupt_Init.o
- .debug_macro   0x0001b455       0xc4 ./src/ModeEntryAndConfig.o
- .debug_macro   0x0001b519       0x82 ./src/ModeEntryAndConfig.o
- .debug_macro   0x0001b59b       0xcd ./src/UARTConfig.o
- .debug_macro   0x0001b668       0x28 ./src/UARTConfig.o
- .debug_macro   0x0001b690       0xc4 ./src/User_Interface.o
- .debug_macro   0x0001b754       0x41 ./src/Vector.o
- .debug_macro   0x0001b795       0xb4 ./src/eTimer.o
- .debug_macro   0x0001b849       0xd1 ./src/flashrchw.o
- .debug_macro   0x0001b91a       0xf2 ./src/gd3000.o
- .debug_macro   0x0001ba0c       0xa1 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
- .debug_macro   0x0001baad      0x199 ./src/main.o
- .debug_macro   0x0001bc46       0x2e ./src/main.o
- .debug_macro   0x0001bc74      0x36e ./src/modele_moteur_virtuel.o
- .debug_macro   0x0001bfe2      0x343 ./src/pga411.o
+ .debug_macro   0x0000da78      0x3e1 ./src/Cmd_moteur.o
+ .debug_macro   0x0000de59       0x16 ./src/Cmd_moteur.o
+ .debug_macro   0x0000de6f       0x16 ./src/Cmd_moteur.o
+ .debug_macro   0x0000de85      0x1af ./src/Cmd_moteur.o
+ .debug_macro   0x0000e034       0x2e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e062       0x61 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e0c3       0x28 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e0eb       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e109       0xb2 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e1bb      0x112 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e2cd       0x22 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e2ef      0x1ad ./src/Cmd_moteur.o
+ .debug_macro   0x0000e49c       0x24 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e4c0       0x1d ./src/Cmd_moteur.o
+ .debug_macro   0x0000e4dd       0x1d ./src/Cmd_moteur.o
+ .debug_macro   0x0000e4fa       0x18 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e512       0x24 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e536       0x1d ./src/Cmd_moteur.o
+ .debug_macro   0x0000e553       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e576       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e594       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e5b7       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e5d5       0x25 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e5fa       0x1d ./src/Cmd_moteur.o
+ .debug_macro   0x0000e617       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e635       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e653       0x1f ./src/Cmd_moteur.o
+ .debug_macro   0x0000e672       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e690       0x1d ./src/Cmd_moteur.o
+ .debug_macro   0x0000e6ad       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e6cb       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e6e9       0x1d ./src/Cmd_moteur.o
+ .debug_macro   0x0000e706       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e724       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e742       0x24 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e766       0x1f ./src/Cmd_moteur.o
+ .debug_macro   0x0000e785       0x1e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e7a3       0x24 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e7c7       0x49 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e810       0x4f ./src/Cmd_moteur.o
+ .debug_macro   0x0000e85f       0x4f ./src/Cmd_moteur.o
+ .debug_macro   0x0000e8ae       0x4f ./src/Cmd_moteur.o
+ .debug_macro   0x0000e8fd       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000e920       0x7e ./src/Cmd_moteur.o
+ .debug_macro   0x0000e99e       0x7e ./src/Cmd_moteur.o
+ .debug_macro   0x0000ea1c       0x7e ./src/Cmd_moteur.o
+ .debug_macro   0x0000ea9a       0x7e ./src/Cmd_moteur.o
+ .debug_macro   0x0000eb18       0x4f ./src/Cmd_moteur.o
+ .debug_macro   0x0000eb67       0x4f ./src/Cmd_moteur.o
+ .debug_macro   0x0000ebb6       0x4f ./src/Cmd_moteur.o
+ .debug_macro   0x0000ec05       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ec28       0x22 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ec4a       0x46 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ec90       0x46 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ecd6       0x47 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ed1d       0x46 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ed63       0x47 ./src/Cmd_moteur.o
+ .debug_macro   0x0000edaa       0x47 ./src/Cmd_moteur.o
+ .debug_macro   0x0000edf1       0x46 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ee37       0x47 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ee7e       0x46 ./src/Cmd_moteur.o
+ .debug_macro   0x0000eec4       0x2a ./src/Cmd_moteur.o
+ .debug_macro   0x0000eeee       0x3b ./src/Cmd_moteur.o
+ .debug_macro   0x0000ef29       0x3b ./src/Cmd_moteur.o
+ .debug_macro   0x0000ef64       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000ef87       0x7e ./src/Cmd_moteur.o
+ .debug_macro   0x0000f005       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f028       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f04b       0x22 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f06d       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f090       0x23 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f0b3       0x47 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f0fa       0x48 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f142      0x166 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f2a8       0xa6 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f34e      0x100 ./src/Cmd_moteur.o
+ .debug_macro   0x0000f44e       0x2e ./src/Cmd_moteur.o
+ .debug_macro   0x0000f47c       0x2e ./src/Cmd_moteur.o
+ .debug_macro   0x0000f4aa       0xbb ./src/ConfigADC.o
+ .debug_macro   0x0000f565     0xb50a ./src/ConfigADC.o
+ .debug_macro   0x0001aa6f       0xbb ./src/ConfigCTU.o
+ .debug_macro   0x0001ab2a       0x2e ./src/ConfigCTU.o
+ .debug_macro   0x0001ab58       0xbb ./src/ConfigGPIO.o
+ .debug_macro   0x0001ac13       0xc4 ./src/ConfigPIT.o
+ .debug_macro   0x0001acd7       0xc4 ./src/ConfigPWM.o
+ .debug_macro   0x0001ad9b      0x142 ./src/ConfigPWM.o
+ .debug_macro   0x0001aedd       0xbb ./src/Config_eDMA.o
+ .debug_macro   0x0001af98       0x52 ./src/Config_eDMA.o
+ .debug_macro   0x0001afea      0x22f ./src/Current_Sensor.o
+ .debug_macro   0x0001b219       0x24 ./src/Current_Sensor.o
+ .debug_macro   0x0001b23d      0x1a7 ./src/Current_Sensor.o
+ .debug_macro   0x0001b3e4       0x1e ./src/Current_Sensor.o
+ .debug_macro   0x0001b402       0xee ./src/DSPIConfig.o
+ .debug_macro   0x0001b4f0       0xca ./src/DSPIConfig.o
+ .debug_macro   0x0001b5ba       0xd1 ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x0001b68b       0x2e ./src/MPC57xx__Interrupt_Init.o
+ .debug_macro   0x0001b6b9       0xc4 ./src/ModeEntryAndConfig.o
+ .debug_macro   0x0001b77d       0x82 ./src/ModeEntryAndConfig.o
+ .debug_macro   0x0001b7ff       0xcd ./src/UARTConfig.o
+ .debug_macro   0x0001b8cc       0x28 ./src/UARTConfig.o
+ .debug_macro   0x0001b8f4       0xc4 ./src/User_Interface.o
+ .debug_macro   0x0001b9b8       0x41 ./src/Vector.o
+ .debug_macro   0x0001b9f9       0xb4 ./src/eTimer.o
+ .debug_macro   0x0001baad       0xd1 ./src/flashrchw.o
+ .debug_macro   0x0001bb7e       0xf2 ./src/gd3000.o
+ .debug_macro   0x0001bc70       0xa1 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_macro   0x0001bd11      0x199 ./src/main.o
+ .debug_macro   0x0001beaa       0x2e ./src/main.o
+ .debug_macro   0x0001bed8      0x36e ./src/modele_moteur_virtuel.o
+ .debug_macro   0x0001c246      0x343 ./src/pga411.o
 
-.debug_line     0x00000000     0x8056
+.debug_line     0x00000000     0x80b6
  .debug_line    0x00000000      0x3a5 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .debug_line    0x000003a5      0x270 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
  .debug_line    0x00000615      0xa58 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
@@ -3756,30 +3830,30 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_line    0x00002223      0x2b2 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
  .debug_line    0x000024d5       0xe1 ./Project_Settings/Startup_Code/startup.o
  .debug_line    0x000025b6      0x2dc ./src/ClockConfig.o
- .debug_line    0x00002892      0x983 ./src/Cmd_moteur.o
- .debug_line    0x00003215      0x4c4 ./src/ConfigADC.o
- .debug_line    0x000036d9      0x322 ./src/ConfigCTU.o
- .debug_line    0x000039fb      0x2b6 ./src/ConfigGPIO.o
- .debug_line    0x00003cb1      0x2bb ./src/ConfigPIT.o
- .debug_line    0x00003f6c      0x3fc ./src/ConfigPWM.o
- .debug_line    0x00004368      0x29c ./src/Config_eDMA.o
- .debug_line    0x00004604      0x638 ./src/Current_Sensor.o
- .debug_line    0x00004c3c      0x46b ./src/DSPIConfig.o
- .debug_line    0x000050a7      0x260 ./src/MPC57xx__Interrupt_Init.o
- .debug_line    0x00005307      0x298 ./src/ModeEntryAndConfig.o
- .debug_line    0x0000559f      0x336 ./src/UARTConfig.o
- .debug_line    0x000058d5      0x221 ./src/User_Interface.o
- .debug_line    0x00005af6       0xfe ./src/Vector.o
- .debug_line    0x00005bf4      0x314 ./src/eTimer.o
- .debug_line    0x00005f08      0x1d3 ./src/flashrchw.o
- .debug_line    0x000060db      0x4cd ./src/gd3000.o
- .debug_line    0x000065a8      0x200 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
- .debug_line    0x000067a8       0x5d ./src/intc_sw_handlers.o
- .debug_line    0x00006805      0x4ad ./src/main.o
- .debug_line    0x00006cb2      0x860 ./src/modele_moteur_virtuel.o
- .debug_line    0x00007512      0xb44 ./src/pga411.o
+ .debug_line    0x00002892      0x9e3 ./src/Cmd_moteur.o
+ .debug_line    0x00003275      0x4c4 ./src/ConfigADC.o
+ .debug_line    0x00003739      0x322 ./src/ConfigCTU.o
+ .debug_line    0x00003a5b      0x2b6 ./src/ConfigGPIO.o
+ .debug_line    0x00003d11      0x2bb ./src/ConfigPIT.o
+ .debug_line    0x00003fcc      0x3fc ./src/ConfigPWM.o
+ .debug_line    0x000043c8      0x29c ./src/Config_eDMA.o
+ .debug_line    0x00004664      0x638 ./src/Current_Sensor.o
+ .debug_line    0x00004c9c      0x46b ./src/DSPIConfig.o
+ .debug_line    0x00005107      0x260 ./src/MPC57xx__Interrupt_Init.o
+ .debug_line    0x00005367      0x298 ./src/ModeEntryAndConfig.o
+ .debug_line    0x000055ff      0x336 ./src/UARTConfig.o
+ .debug_line    0x00005935      0x221 ./src/User_Interface.o
+ .debug_line    0x00005b56       0xfe ./src/Vector.o
+ .debug_line    0x00005c54      0x314 ./src/eTimer.o
+ .debug_line    0x00005f68      0x1d3 ./src/flashrchw.o
+ .debug_line    0x0000613b      0x4cd ./src/gd3000.o
+ .debug_line    0x00006608      0x200 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_line    0x00006808       0x5d ./src/intc_sw_handlers.o
+ .debug_line    0x00006865      0x4ad ./src/main.o
+ .debug_line    0x00006d12      0x860 ./src/modele_moteur_virtuel.o
+ .debug_line    0x00007572      0xb44 ./src/pga411.o
 
-.debug_str      0x00000000    0x5024d
+.debug_str      0x00000000    0x50384
  .debug_str     0x00000000     0x6ca8 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
                                0x6d05 (size before relaxing)
  .debug_str     0x00006ca8       0xb0 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
@@ -3800,50 +3874,50 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
                                0x61d1 (size before relaxing)
  .debug_str     0x00008d06    0x36272 ./src/ClockConfig.o
                               0x392e6 (size before relaxing)
- .debug_str     0x0003ef78     0x948c ./src/Cmd_moteur.o
-                               0xdb23 (size before relaxing)
- .debug_str     0x00048404     0x1290 ./src/ConfigADC.o
+ .debug_str     0x0003ef78     0x95bc ./src/Cmd_moteur.o
+                               0xdc65 (size before relaxing)
+ .debug_str     0x00048534     0x1290 ./src/ConfigADC.o
                               0x387ce (size before relaxing)
- .debug_str     0x00049694      0xccd ./src/ConfigCTU.o
+ .debug_str     0x000497c4      0xccd ./src/ConfigCTU.o
                               0x37f7e (size before relaxing)
- .debug_str     0x0004a361      0x151 ./src/ConfigGPIO.o
+ .debug_str     0x0004a491      0x151 ./src/ConfigGPIO.o
                               0x386f1 (size before relaxing)
- .debug_str     0x0004a4b2      0x25c ./src/ConfigPIT.o
+ .debug_str     0x0004a5e2      0x25c ./src/ConfigPIT.o
                               0x3770c (size before relaxing)
- .debug_str     0x0004a70e      0xecf ./src/ConfigPWM.o
+ .debug_str     0x0004a83e      0xecf ./src/ConfigPWM.o
                               0x38bda (size before relaxing)
- .debug_str     0x0004b5dd      0xf1d ./src/Config_eDMA.o
+ .debug_str     0x0004b70d      0xf1d ./src/Config_eDMA.o
                               0x381ee (size before relaxing)
- .debug_str     0x0004c4fa      0x28b ./src/Current_Sensor.o
+ .debug_str     0x0004c62a      0x292 ./src/Current_Sensor.o
                               0x3bd72 (size before relaxing)
- .debug_str     0x0004c785      0x786 ./src/DSPIConfig.o
+ .debug_str     0x0004c8bc      0x786 ./src/DSPIConfig.o
                               0x39533 (size before relaxing)
- .debug_str     0x0004cf0b      0x41f ./src/MPC57xx__Interrupt_Init.o
+ .debug_str     0x0004d042      0x41f ./src/MPC57xx__Interrupt_Init.o
                               0x376cd (size before relaxing)
- .debug_str     0x0004d32a     0x11f3 ./src/ModeEntryAndConfig.o
+ .debug_str     0x0004d461     0x11f3 ./src/ModeEntryAndConfig.o
                               0x38689 (size before relaxing)
- .debug_str     0x0004e51d      0x7cb ./src/UARTConfig.o
+ .debug_str     0x0004e654      0x7cb ./src/UARTConfig.o
                               0x38f9a (size before relaxing)
- .debug_str     0x0004ece8       0x2c ./src/User_Interface.o
+ .debug_str     0x0004ee1f       0x2c ./src/User_Interface.o
                               0x37ce2 (size before relaxing)
- .debug_str     0x0004ed14       0x75 ./src/Vector.o
+ .debug_str     0x0004ee4b       0x75 ./src/Vector.o
                                0x24bf (size before relaxing)
- .debug_str     0x0004ed89      0x7f7 ./src/eTimer.o
+ .debug_str     0x0004eec0      0x7f7 ./src/eTimer.o
                               0x37aaf (size before relaxing)
- .debug_str     0x0004f580       0xe1 ./src/flashrchw.o
+ .debug_str     0x0004f6b7       0xe1 ./src/flashrchw.o
                                0x3b0a (size before relaxing)
- .debug_str     0x0004f661      0x31c ./src/gd3000.o
+ .debug_str     0x0004f798      0x31c ./src/gd3000.o
                               0x391b9 (size before relaxing)
- .debug_str     0x0004f97d       0x2b ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_str     0x0004fab4       0x2b ./src/intc_SW_mode_isr_vectors_MPC5744P.o
                                0x3a76 (size before relaxing)
- .debug_str     0x0004f9a8       0xcf ./src/main.o
+ .debug_str     0x0004fadf       0xcf ./src/main.o
                               0x3b70a (size before relaxing)
- .debug_str     0x0004fa77      0x167 ./src/modele_moteur_virtuel.o
+ .debug_str     0x0004fbae      0x167 ./src/modele_moteur_virtuel.o
                                0xc741 (size before relaxing)
- .debug_str     0x0004fbde      0x66f ./src/pga411.o
+ .debug_str     0x0004fd15      0x66f ./src/pga411.o
                               0x40864 (size before relaxing)
 
-.debug_frame    0x00000000     0x3354
+.debug_frame    0x00000000     0x348c
  .debug_frame   0x00000000      0x190 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
  .debug_frame   0x00000190       0x58 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
  .debug_frame   0x000001e8      0x4ec ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
@@ -3854,31 +3928,37 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_frame   0x00000d74       0x58 ./FreeMaster_MPC57xxx/src_common/freemaster_tsa.o
  .debug_frame   0x00000dcc       0xc4 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
  .debug_frame   0x00000e90      0x130 ./src/ClockConfig.o
- .debug_frame   0x00000fc0      0x24c ./src/Cmd_moteur.o
- .debug_frame   0x0000120c      0x230 ./src/ConfigADC.o
- .debug_frame   0x0000143c      0x1a8 ./src/ConfigCTU.o
- .debug_frame   0x000015e4      0x158 ./src/ConfigGPIO.o
- .debug_frame   0x0000173c      0x154 ./src/ConfigPIT.o
- .debug_frame   0x00001890      0x270 ./src/ConfigPWM.o
- .debug_frame   0x00001b00       0xe8 ./src/Config_eDMA.o
- .debug_frame   0x00001be8      0x21c ./src/Current_Sensor.o
- .debug_frame   0x00001e04      0x2a0 ./src/DSPIConfig.o
- .debug_frame   0x000020a4       0xa0 ./src/MPC57xx__Interrupt_Init.o
- .debug_frame   0x00002144       0xa0 ./src/ModeEntryAndConfig.o
- .debug_frame   0x000021e4      0x130 ./src/UARTConfig.o
- .debug_frame   0x00002314       0x38 ./src/User_Interface.o
- .debug_frame   0x0000234c      0x22c ./src/eTimer.o
- .debug_frame   0x00002578      0x400 ./src/gd3000.o
- .debug_frame   0x00002978       0x2c ./src/intc_SW_mode_isr_vectors_MPC5744P.o
- .debug_frame   0x000029a4       0xc0 ./src/main.o
- .debug_frame   0x00002a64      0x13c ./src/modele_moteur_virtuel.o
- .debug_frame   0x00002ba0      0x62c ./src/pga411.o
- .debug_frame   0x000031cc       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
- .debug_frame   0x000031fc       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
- .debug_frame   0x00003234       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
- .debug_frame   0x0000326c       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
- .debug_frame   0x000032a4       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
- .debug_frame   0x000032d4       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
- .debug_frame   0x000032f4       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
- .debug_frame   0x00003314       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
- .debug_frame   0x00003334       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
+ .debug_frame   0x00000fc0      0x250 ./src/Cmd_moteur.o
+ .debug_frame   0x00001210      0x230 ./src/ConfigADC.o
+ .debug_frame   0x00001440      0x1a8 ./src/ConfigCTU.o
+ .debug_frame   0x000015e8      0x158 ./src/ConfigGPIO.o
+ .debug_frame   0x00001740      0x154 ./src/ConfigPIT.o
+ .debug_frame   0x00001894      0x270 ./src/ConfigPWM.o
+ .debug_frame   0x00001b04       0xe8 ./src/Config_eDMA.o
+ .debug_frame   0x00001bec      0x21c ./src/Current_Sensor.o
+ .debug_frame   0x00001e08      0x2a0 ./src/DSPIConfig.o
+ .debug_frame   0x000020a8       0xa0 ./src/MPC57xx__Interrupt_Init.o
+ .debug_frame   0x00002148       0xa0 ./src/ModeEntryAndConfig.o
+ .debug_frame   0x000021e8      0x130 ./src/UARTConfig.o
+ .debug_frame   0x00002318       0x38 ./src/User_Interface.o
+ .debug_frame   0x00002350      0x22c ./src/eTimer.o
+ .debug_frame   0x0000257c      0x400 ./src/gd3000.o
+ .debug_frame   0x0000297c       0x2c ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_frame   0x000029a8       0xc0 ./src/main.o
+ .debug_frame   0x00002a68      0x13c ./src/modele_moteur_virtuel.o
+ .debug_frame   0x00002ba4      0x62c ./src/pga411.o
+ .debug_frame   0x000031d0       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_sf_to_df.o)
+ .debug_frame   0x00003200       0x4c c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_mul_df.o)
+ .debug_frame   0x0000324c       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_div_df.o)
+ .debug_frame   0x00003284       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_gt_df.o)
+ .debug_frame   0x000032bc       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_lt_df.o)
+ .debug_frame   0x000032f4       0x38 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_le_df.o)
+ .debug_frame   0x0000332c       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_si_to_df.o)
+ .debug_frame   0x0000335c       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_df.o)
+ .debug_frame   0x0000338c       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_df_to_sf.o)
+ .debug_frame   0x000033bc       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_sf.o)
+ .debug_frame   0x000033dc       0x30 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_make_sf.o)
+ .debug_frame   0x0000340c       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_df.o)
+ .debug_frame   0x0000342c       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_unpack_df.o)
+ .debug_frame   0x0000344c       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_fpcmp_parts_df.o)
+ .debug_frame   0x0000346c       0x20 c:/nxp/s32ds_power_v2.1/s32ds/build_tools/powerpc-eabivle-4_9/bin/../lib/gcc/powerpc-eabivle/4.9.4/e200z4/fp\libgcc.a(_pack_sf.o)
