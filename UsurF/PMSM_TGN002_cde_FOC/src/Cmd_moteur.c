@@ -292,6 +292,7 @@ SWLIBS_2Syst_FLT Exec_Slow_Loop(void) {
 	//calcul de la commande en tension Uq, à partir d'une look-up table
 	//Set_pad_out(User_Test,OUT_ON);
 	Udq_calc.fltArg2 = U_F_LUT(Commande_Vitesse);
+	//
 	//Set_pad_out(User_Test,OUT_OFF);
 
 	return(Udq_calc);
