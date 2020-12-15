@@ -168,7 +168,7 @@ int main(void)
 	/***************************************************************/
 	/* Initialisation des paramètres de la commande moteur         */
 	/***************************************************************/
-	init_Cmd_Moteur_Variables(MOTEUR_REEL); //MOTEUR_REEL ou MOTEUR_VIRTUEL
+	init_Cmd_Moteur_Variables(MOTEUR_VIRTUEL); //MOTEUR_REEL ou MOTEUR_VIRTUEL
 
 	/***************************************************************/
 	/* Initialisation des composants extérieurs (gate driver, current*/
@@ -189,7 +189,7 @@ int main(void)
 	if ((ConfigGD3000_OK & Current_sensor_OK & Config_PGA411_OK) == 0) {
 		Set_pad_out(User_LED_Red,LED_ON);
 	}
-	else {h orig
+	else {
 		Set_pad_out(User_LED_Red,LED_OFF);
 	}
 
