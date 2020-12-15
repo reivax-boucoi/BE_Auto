@@ -1,0 +1,21 @@
+09:58:57 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_FOC ****
+make -j4 all 
+Building file: ../src/main.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Finished building: ../src/main.c
+ 
+Building target: PMSM_TGN002_cde_FOC.elf
+Invoking: Standard S32DS C++ Linker
+powerpc-eabivle-g++ -o "PMSM_TGN002_cde_FOC.elf" "@PMSM_TGN002_cde_FOC.args"    
+Finished building target: PMSM_TGN002_cde_FOC.elf
+ 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_FOC.elf
+   text	   data	    bss	    dec	    hex	filename
+  56162	    276	   5556	  61994	   f22a	PMSM_TGN002_cde_FOC.elf
+Finished building: PMSM_TGN002_cde_FOC.siz
+ 
+
+09:59:00 Build Finished (took 2s.483ms)
+
