@@ -1,0 +1,88 @@
+16:36:18 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+make -j4 all 
+Building file: ../src/Cmd_moteur.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
+../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
+../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
+  uint8_t PhaseCurrentRead_OK;
+          ^
+Finished building: ../src/Cmd_moteur.c
+ 
+Building target: PMSM_TGN002_cde_Uf.elf
+Invoking: Standard S32DS C++ Linker
+powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
+Finished building target: PMSM_TGN002_cde_Uf.elf
+ 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
+   text	   data	    bss	    dec	    hex	filename
+  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+Finished building: PMSM_TGN002_cde_Uf.siz
+ 
+16:37:05 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+make -j4 all 
+Building file: ../src/Cmd_moteur.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
+../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
+../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
+  uint8_t PhaseCurrentRead_OK;
+          ^
+Finished building: ../src/Cmd_moteur.c
+ 
+Building target: PMSM_TGN002_cde_Uf.elf
+Invoking: Standard S32DS C++ Linker
+powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
+Finished building target: PMSM_TGN002_cde_Uf.elf
+ 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
+   text	   data	    bss	    dec	    hex	filename
+  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+Finished building: PMSM_TGN002_cde_Uf.siz
+ 
+16:41:52 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+make -j4 all 
+Building file: ../src/Cmd_moteur.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
+../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
+../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
+  uint8_t PhaseCurrentRead_OK;
+          ^
+Finished building: ../src/Cmd_moteur.c
+ 
+Building target: PMSM_TGN002_cde_Uf.elf
+Invoking: Standard S32DS C++ Linker
+powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
+Finished building target: PMSM_TGN002_cde_Uf.elf
+ 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
+   text	   data	    bss	    dec	    hex	filename
+  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+Finished building: PMSM_TGN002_cde_Uf.siz
+ 
+16:43:56 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+make -j4 all 
+Building file: ../src/Cmd_moteur.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
+../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
+../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
+  uint8_t PhaseCurrentRead_OK;
+          ^
+Finished building: ../src/Cmd_moteur.c
+ 
+Building target: PMSM_TGN002_cde_Uf.elf
+Invoking: Standard S32DS C++ Linker
+powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
+Finished building target: PMSM_TGN002_cde_Uf.elf
+ 
+Invoking: Standard S32DS Print Size
+powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
+   text	   data	    bss	    dec	    hex	filename
+  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+Finished building: PMSM_TGN002_cde_Uf.siz
+ 

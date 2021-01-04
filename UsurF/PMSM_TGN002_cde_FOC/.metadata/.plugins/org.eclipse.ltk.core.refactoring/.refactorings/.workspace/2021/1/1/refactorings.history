@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;PMSM_TGN002_cde_Uf&apos;" deleteContents="false" description="Delete resource &apos;PMSM_TGN002_cde_Uf&apos;" element1="/PMSM_TGN002_cde_Uf" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1609771717350"/>
+</session>
