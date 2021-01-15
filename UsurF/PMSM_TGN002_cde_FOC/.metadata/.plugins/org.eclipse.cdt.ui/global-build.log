@@ -1,13 +1,85 @@
-16:36:18 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+09:40:05 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
 make -j4 all 
-Building file: ../src/Cmd_moteur.c
+Building file: ../src/main.c
+Building file: ../src/pga411.c
 Invoking: Standard S32DS C Compiler
-powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
-../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
-../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
-  uint8_t PhaseCurrentRead_OK;
-          ^
-Finished building: ../src/Cmd_moteur.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/main.d" -MT"src/main.o" -o "src/main.o" "../src/main.c"
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_platforms/MPC57xx/freemaster_MPC57xx.c
+powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/pga411.d" -MT"src/pga411.o" -o "src/pga411.o" "../src/pga411.c"
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.d" -MT"FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o" -o "FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_platforms/MPC57xx/freemaster_MPC57xx.c"
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_appcmd.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_appcmd.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_appcmd.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_appcmd.c"
+../src/pga411.c:176:1: warning: "/*" within comment [-Wcomment]
+ /*****************************************************************************/
+ ^
+../src/pga411.c: In function 'pga411_Config_Init':
+../src/pga411.c:195:2: warning: statement with no effect [-Wunused-value]
+  config_OK != PGA411_Status.PGA411_Failed;
+  ^
+../src/pga411.c: In function 'pga411_XmitSPI':
+../src/pga411.c:344:11: warning: variable 'error_data' set but not used [-Wunused-but-set-variable]
+  uint32_t error_data;
+           ^
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_platforms/MPC57xx/freemaster_MPC57xx.c
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_appcmd.c
+Finished building: ../src/main.c
+ 
+ 
+Finished building: ../src/pga411.c
+ 
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_bdm.c
+ 
+Invoking: Standard S32DS C Compiler
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_can.c
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_lin.c
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_bdm.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_bdm.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_bdm.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_bdm.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_bdm.c"
+Invoking: Standard S32DS C Compiler
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_can.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_can.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_can.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_can.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_can.c"
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_lin.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_lin.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_lin.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_lin.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_lin.c"
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_pipes.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_pipes.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_pipes.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_pipes.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_pipes.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_pipes.c"
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_bdm.c
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_can.c
+ 
+ 
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_lin.c
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_protocol.c
+ 
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_protocol.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_protocol.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_protocol.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_protocol.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_protocol.c"
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_rec.c
+Invoking: Standard S32DS C Compiler
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_scope.c
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_rec.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_rec.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_rec.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_rec.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_rec.c"
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_scope.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_scope.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_scope.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_scope.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_scope.c"
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_pipes.c
+ 
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_serial.c
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_serial.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_serial.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_serial.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_serial.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_serial.c"
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_protocol.c
+ 
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_scope.c
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_rec.c
+ 
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_sfio.c
+ 
+Building file: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_tsa.c
+Invoking: Standard S32DS C Compiler
+Invoking: Standard S32DS C Compiler
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_sfio.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_sfio.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_sfio.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_sfio.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_sfio.c"
+powerpc-eabivle-gcc "@FreeMaster_MPC57xxx/src_common/freemaster_tsa.args" -MMD -MP -MF"FreeMaster_MPC57xxx/src_common/freemaster_tsa.d" -MT"FreeMaster_MPC57xxx/src_common/freemaster_tsa.o" -o "FreeMaster_MPC57xxx/src_common/freemaster_tsa.o" "C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_tsa.c"
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_serial.c
+ 
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_tsa.c
+Finished building: C:/NXP/S32DS_Power_v2.1/S32DS/software/FreeMASTER_Serial_Communication_Driver_V2_0/src_common/freemaster_sfio.c
+ 
  
 Building target: PMSM_TGN002_cde_Uf.elf
 Invoking: Standard S32DS C++ Linker
@@ -17,72 +89,22 @@ Finished building target: PMSM_TGN002_cde_Uf.elf
 Invoking: Standard S32DS Print Size
 powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
    text	   data	    bss	    dec	    hex	filename
-  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+  56162	    276	   5556	  61994	   f22a	PMSM_TGN002_cde_Uf.elf
 Finished building: PMSM_TGN002_cde_Uf.siz
  
-16:37:05 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+09:40:22 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
 make -j4 all 
-Building file: ../src/Cmd_moteur.c
-Invoking: Standard S32DS C Compiler
-powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
-../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
-../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
-  uint8_t PhaseCurrentRead_OK;
-          ^
-Finished building: ../src/Cmd_moteur.c
- 
-Building target: PMSM_TGN002_cde_Uf.elf
-Invoking: Standard S32DS C++ Linker
-powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
-Finished building target: PMSM_TGN002_cde_Uf.elf
- 
 Invoking: Standard S32DS Print Size
 powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
    text	   data	    bss	    dec	    hex	filename
-  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+  56162	    276	   5556	  61994	   f22a	PMSM_TGN002_cde_Uf.elf
 Finished building: PMSM_TGN002_cde_Uf.siz
  
-16:41:52 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
+09:49:55 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
 make -j4 all 
-Building file: ../src/Cmd_moteur.c
-Invoking: Standard S32DS C Compiler
-powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
-../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
-../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
-  uint8_t PhaseCurrentRead_OK;
-          ^
-Finished building: ../src/Cmd_moteur.c
- 
-Building target: PMSM_TGN002_cde_Uf.elf
-Invoking: Standard S32DS C++ Linker
-powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
-Finished building target: PMSM_TGN002_cde_Uf.elf
- 
 Invoking: Standard S32DS Print Size
 powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
    text	   data	    bss	    dec	    hex	filename
-  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
-Finished building: PMSM_TGN002_cde_Uf.siz
- 
-16:43:56 **** Incremental Build of configuration Debug for project PMSM_TGN002_cde_Uf ****
-make -j4 all 
-Building file: ../src/Cmd_moteur.c
-Invoking: Standard S32DS C Compiler
-powerpc-eabivle-gcc "@src/ClockConfig.args" -MMD -MP -MF"src/Cmd_moteur.d" -MT"src/Cmd_moteur.o" -o "src/Cmd_moteur.o" "../src/Cmd_moteur.c"
-../src/Cmd_moteur.c: In function 'ADC0_EOC_FAST_LOOP_isr':
-../src/Cmd_moteur.c:425:10: warning: variable 'PhaseCurrentRead_OK' set but not used [-Wunused-but-set-variable]
-  uint8_t PhaseCurrentRead_OK;
-          ^
-Finished building: ../src/Cmd_moteur.c
- 
-Building target: PMSM_TGN002_cde_Uf.elf
-Invoking: Standard S32DS C++ Linker
-powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"    
-Finished building target: PMSM_TGN002_cde_Uf.elf
- 
-Invoking: Standard S32DS Print Size
-powerpc-eabivle-size --format=berkeley PMSM_TGN002_cde_Uf.elf
-   text	   data	    bss	    dec	    hex	filename
-  54282	    276	   5588	  60146	   eaf2	PMSM_TGN002_cde_Uf.elf
+  56162	    276	   5556	  61994	   f22a	PMSM_TGN002_cde_Uf.elf
 Finished building: PMSM_TGN002_cde_Uf.siz
  

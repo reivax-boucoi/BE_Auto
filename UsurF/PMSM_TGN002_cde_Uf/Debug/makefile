@@ -48,7 +48,7 @@ PMSM_TGN002_cde_Uf.siz \
 all: PMSM_TGN002_cde_Uf.elf secondary-outputs
 
 # Tool invocations
-PMSM_TGN002_cde_Uf.elf: $(OBJS) C:/Users/bourlot/Downloads/BE_Auto/UsurF/PMSM_TGN002_cde_Uf/Project_Settings/Linker_Files/57xx_flash.ld $(OSPT) $(USER_OBJS)
+PMSM_TGN002_cde_Uf.elf: $(OBJS) U:/BE_Auto/UsurF/PMSM_TGN002_cde_Uf/Project_Settings/Linker_Files/57xx_flash.ld $(OSPT) $(USER_OBJS)
 	@echo 'Building target: $@'
 	@echo 'Invoking: Standard S32DS C++ Linker'
 	powerpc-eabivle-g++ -o "PMSM_TGN002_cde_Uf.elf" "@PMSM_TGN002_cde_Uf.args"  $(USER_OBJS)  $(OSPT)

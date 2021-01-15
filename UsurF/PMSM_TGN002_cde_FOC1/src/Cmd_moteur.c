@@ -51,7 +51,7 @@ uint32_t nb_exec_FL_max_Exec_SL; //détermine le nb max de boucle Fast Loop (FL) 
 
 //les variables liées à la commande des 3 phases du moteur (tensions dans les repères abc et dq, et rapports cycliques)
 //les commandes dans les repères DQ, ABC et traduction en rapports cycliques.
-SWLIBS_2Syst_FLT Udq_Commande; //commande moteur dans le repère dq, exprimée en V
+SWLIBS_2Syst_FLT Idq_ref; //commande moteur dans le repère dq, exprimée en I
 SWLIBS_3Syst_FLT Uabc_Commande; //commande moteur dans le repère abc, exprimée en V (uniquement pour le test, pour afficher
 //sous Freemaster les tensions de commande en V).
 uint16_t Cmd_DutyA, Cmd_DutyB, Cmd_DutyC; //rapports cycliques des commandes des 3 phases, à fournir directement
@@ -114,7 +114,8 @@ uint8_t Mode_Lecture_Courant_Angle; //= 0 --> angle rotor et courants de phase o
 
 GFLIB_CONTROLLER_PI_P_T_FLT VelocityPI = GFLIB_CONTROLLER_PI_P_DEFAULT_FLT;
 
-GFLIB_CONTROLLER_PI_P_T_FLT currentPI = GFLIB_CONTROLLER_PI_P_DEFAULT_FLT;
+GFLIB_CONTROLLER_PI_P_T_FLT currentPID = GFLIB_CONTROLLER_PI_P_DEFAULT_FLT;
+GFLIB_CONTROLLER_PI_P_T_FLT currentPIQ = GFLIB_CONTROLLER_PI_P_DEFAULT_FLT;
 
 
 
@@ -122,8 +123,8 @@ void init_Cmd_Moteur_Variables(uint8_t Moteur_Reel_Ou_Virtuel) {
 	Consigne_Vitesse = 0;
 	Commande_Vitesse = 0;
 	D_Vitesse = MLIB_Mul_FLT(ACCELERATION_RAMPE_VITESSE,T_SLOW_LOOP_MS);
-	Udq_Commande.fltArg1 = 0;
-	Udq_Commande.fltArg2 = 0;
+	Idq_ref.fltArg1 = 0;
+	Idq_ref.fltArg2 = 0;
 	Uabc_Commande.fltArg1 = 0;
 	Uabc_Commande.fltArg2 = 0;
 	Uabc_Commande.fltArg3 = 0;
@@ -136,10 +137,40 @@ void init_Cmd_Moteur_Variables(uint8_t Moteur_Reel_Ou_Virtuel) {
 
 
 	//Correcteurs
-	currentPI.fltPropGain=0.2;
-	currentPI.fltIntegGain=6.25*T_FAST_LOOP_S/2.0;
-	VelocityPI.fltPropGain=0.022;
-	VelocityPI.fltIntegGain=2.0*T_SLOW_LOOP_S/2.0;
+	//currentPI.fltPropGain=0.2;
+	//currentPI.fltIntegGain=6.25*T_FAST_LOOP_S/2.0;
+//	currentPID.fltPropGain=0.1;
+//	currentPID.fltIntegGain=1.25*T_FAST_LOOP_S/2.0;
+//	currentPID.fltInK_1=0.0;
+//	currentPID.fltIntegPartK_1=0.0;
+//
+//	currentPIQ.fltPropGain=0.1;
+//	currentPIQ.fltIntegGain=1.25*T_FAST_LOOP_S/2.0;
+//	currentPIQ.fltInK_1=0.0;
+//	currentPIQ.fltIntegPartK_1=0.0;
+//	//VelocityPI.fltPropGain=0.022;
+//	//VelocityPI.fltIntegGain=2.0*T_SLOW_LOOP_S/2.0;
+//	VelocityPI.fltPropGain=0.012;
+//	VelocityPI.fltIntegGain=0.1*T_SLOW_LOOP_S/2.0;
+//	VelocityPI.fltInK_1=0.0;
+//	VelocityPI.fltIntegPartK_1=0.0;
+
+	currentPID.fltPropGain=0.1;
+		currentPID.fltIntegGain=6*T_FAST_LOOP_S/2.0;
+		currentPID.fltInK_1=0.0;
+		currentPID.fltIntegPartK_1=0.0;
+
+		currentPIQ.fltPropGain=.1;
+		currentPIQ.fltIntegGain=6*T_FAST_LOOP_S/2.0;
+		currentPIQ.fltInK_1=0.0;
+		currentPIQ.fltIntegPartK_1=0.0;
+		//VelocityPI.fltPropGain=0.022;
+		//VelocityPI.fltIntegGain=2.0*T_SLOW_LOOP_S/2.0;
+		VelocityPI.fltPropGain=0.08;
+		VelocityPI.fltIntegGain=0.01*T_SLOW_LOOP_S/2.0;
+		VelocityPI.fltInK_1=0.0;
+		VelocityPI.fltIntegPartK_1=0.0;
+
 
 
 	//paramètres pour la PWM
@@ -200,7 +231,7 @@ void raz_Entree_Cmd(void) {
  * Les tensions Ud,Uq sont exprimées en V.
  * Elle renvoie les rapports cycliques au format entier 16 bits.                                              */
 /*****************************************************************************/
-SWLIBS_3Syst_F16 Exec_Fast_Loop(SWLIBS_2Syst_FLT Udq_ref) {
+SWLIBS_3Syst_F16 Exec_Fast_Loop(SWLIBS_2Syst_FLT Idq_ref) {
 	SWLIBS_3Syst_F16 Uabc_Duty_F16;
 	SWLIBS_2Syst_FLT CosSinOut, AlphaBetaOut,DQ_Out, Ialphabeta, Idq;
 	SWLIBS_3Syst_FLT PWM_abc_Out;
@@ -222,8 +253,8 @@ SWLIBS_3Syst_F16 Exec_Fast_Loop(SWLIBS_2Syst_FLT Udq_ref) {
 	GMCLIB_Park_FLT(&Idq, &CosSinOut, &Ialphabeta);
 
 
-	DQ_Out.fltArg1 =GFLIB_ControllerPIp_FLT(MLIB_Add_FLT(Udq_ref.fltArg1/*id_set*/,Idq.fltArg1/*Id meas*/),&currentPI);
-	DQ_Out.fltArg2 =GFLIB_ControllerPIp_FLT(MLIB_Add_FLT(Udq_ref.fltArg2/*iq_set*/,Idq.fltArg2/*Iq meas*/),&currentPI);
+	DQ_Out.fltArg1 =GFLIB_ControllerPIp_FLT(MLIB_Add_FLT(Idq_ref.fltArg1/*id_set*/,Idq.fltArg1/*Id meas*/),&currentPID);
+	DQ_Out.fltArg2 =GFLIB_ControllerPIp_FLT(MLIB_Add_FLT(Idq_ref.fltArg2/*iq_set*/,Idq.fltArg2/*Iq meas*/),&currentPIQ);
 
 
 	//fonction Park inverse pour exprimer les consignes de tension Ud,Uq dans le repère alpha_beta.
@@ -311,16 +342,16 @@ SWLIBS_2Syst_FLT Exec_Slow_Loop(void) {
 	SWLIBS_2Syst_FLT Udq_calc;
 
 	Udq_calc.fltArg1 = 0; //le flux est fixé à 0 !
-	Udq_calc.fltArg2 = 0;
+	//Udq_calc.fltArg2 = 0;
 
 
 
 	//mise à jour de la commande de vitesse à partir de la consigne de vitesse courante.
 	Commande_Vitesse = User_Speed_Ramp(Commande_Vitesse,Consigne_Vitesse,D_Vitesse);
 
-	//Set_pad_out(User_Test,OUT_ON);
+	Set_pad_out(User_Test,OUT_ON);
 	Udq_calc.fltArg2 =GFLIB_ControllerPIp_FLT(MLIB_Sub_FLT(Commande_Vitesse,velocity_rotor_meca),&VelocityPI);	//U_F_LUT(Commande_Vitesse);
-	//Set_pad_out(User_Test,OUT_OFF);
+	Set_pad_out(User_Test,OUT_OFF);
 
 	return(Udq_calc);
 }
@@ -457,7 +488,7 @@ void ADC0_EOC_FAST_LOOP_isr(void) {
 		}
 
 		//exécution boucle fast loop
-		Cmd_Duty_F16 = Exec_Fast_Loop(Udq_Commande);
+		Cmd_Duty_F16 = Exec_Fast_Loop(Idq_ref);
 
 		//conversion des rapports cycliques calculés par la fonction Exec_Fast_Loop (type F16) --> format
 		//compatible avec le périphérique FlexPWM.
@@ -500,7 +531,7 @@ void ADC0_EOC_FAST_LOOP_isr(void) {
 			velocity_rotor_meca = MLIB_Mul_FLT(velocity_rotor_meca,cte_calcul_RPM_from_rad_us); //conversion en RPM
 			increment_angle_rotor = (tFloat) (0);
 
-			Udq_Commande = Exec_Slow_Loop();
+			Idq_ref = Exec_Slow_Loop();
 		}
 	}
 

@@ -57,7 +57,7 @@ extern void xcptn_xmpl(void);
 uint8_t appui_SW1 = 0;  //pour repérer un appui sur SW1 --> marche-arrêt moteur. Permet aussi d'identifier
 		//s'il s'agit du premier démarrage.
 uint8_t Premier_Demarrage = 1; //pour différencier le premier démarrage, des démarrages suivant des arrêts
-tFloat MyVitesse_for_Consigne = 300; //vitesse finale de la rampe de vitesse (en RPM)
+tFloat MyVitesse_for_Consigne = 900; //vitesse finale de la rampe de vitesse (en RPM)
 tFloat Consigne_Vitesse; //la consigne de vitesse, qui représente la vitesse à atteindre. Déclaré dans
    //Cmd_moteur.c comme variable externe
 extern tFloat Commande_Vitesse; //la commande de vitesse en cours
@@ -168,7 +168,7 @@ int main(void)
 	/***************************************************************/
 	/* Initialisation des paramètres de la commande moteur         */
 	/***************************************************************/
-	init_Cmd_Moteur_Variables(MOTEUR_VIRTUEL); //MOTEUR_REEL ou MOTEUR_VIRTUEL
+	init_Cmd_Moteur_Variables(MOTEUR_REEL); //MOTEUR_REEL ou MOTEUR_VIRTUEL
 
 	/***************************************************************/
 	/* Initialisation des composants extérieurs (gate driver, current*/

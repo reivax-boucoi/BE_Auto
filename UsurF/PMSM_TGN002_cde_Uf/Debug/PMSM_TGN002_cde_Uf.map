@@ -219,7 +219,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x34e ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
  .debug_macro   0x00000000       0x3c ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
  .debug_macro   0x00000000      0x228 ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
- .debug_line    0x00000000      0x24c ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
+ .debug_line    0x00000000      0x234 ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
  .debug_str     0x00000000     0x6a45 ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
  .comment       0x00000000       0x83 ./FreeMaster_MPC57xxx/src_common/freemaster_bdm.o
  .group         0x00000000        0x8 ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
@@ -256,7 +256,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x34e ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
  .debug_macro   0x00000000       0x3c ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
  .debug_macro   0x00000000      0x228 ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
- .debug_line    0x00000000      0x24c ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
+ .debug_line    0x00000000      0x234 ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
  .debug_str     0x00000000     0x6a45 ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
  .comment       0x00000000       0x83 ./FreeMaster_MPC57xxx/src_common/freemaster_can.o
  .group         0x00000000        0x8 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
@@ -552,7 +552,7 @@ Discarded input sections
  .debug_macro   0x00000000      0x34e ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
  .debug_macro   0x00000000       0x3c ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
  .debug_macro   0x00000000      0x228 ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
- .debug_line    0x00000000      0x24d ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
+ .debug_line    0x00000000      0x235 ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
  .debug_str     0x00000000     0x6a46 ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
  .comment       0x00000000       0x83 ./FreeMaster_MPC57xxx/src_common/freemaster_sfio.o
  .group         0x00000000        0x8 ./FreeMaster_MPC57xxx/src_common/freemaster_tsa.o
@@ -3818,104 +3818,104 @@ OUTPUT(PMSM_TGN002_cde_Uf.elf elf32-powerpc)
  .debug_macro   0x0001bed8      0x36e ./src/modele_moteur_virtuel.o
  .debug_macro   0x0001c246      0x343 ./src/pga411.o
 
-.debug_line     0x00000000     0x80b6
- .debug_line    0x00000000      0x3a5 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
- .debug_line    0x000003a5      0x270 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
- .debug_line    0x00000615      0xa58 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
- .debug_line    0x0000106d      0x3ca ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
- .debug_line    0x00001437      0x4e0 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
- .debug_line    0x00001917      0x2c7 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
- .debug_line    0x00001bde      0x3d5 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
- .debug_line    0x00001fb3      0x270 ./FreeMaster_MPC57xxx/src_common/freemaster_tsa.o
- .debug_line    0x00002223      0x2b2 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
- .debug_line    0x000024d5       0xe1 ./Project_Settings/Startup_Code/startup.o
- .debug_line    0x000025b6      0x2dc ./src/ClockConfig.o
- .debug_line    0x00002892      0x9e3 ./src/Cmd_moteur.o
- .debug_line    0x00003275      0x4c4 ./src/ConfigADC.o
- .debug_line    0x00003739      0x322 ./src/ConfigCTU.o
- .debug_line    0x00003a5b      0x2b6 ./src/ConfigGPIO.o
- .debug_line    0x00003d11      0x2bb ./src/ConfigPIT.o
- .debug_line    0x00003fcc      0x3fc ./src/ConfigPWM.o
- .debug_line    0x000043c8      0x29c ./src/Config_eDMA.o
- .debug_line    0x00004664      0x638 ./src/Current_Sensor.o
- .debug_line    0x00004c9c      0x46b ./src/DSPIConfig.o
- .debug_line    0x00005107      0x260 ./src/MPC57xx__Interrupt_Init.o
- .debug_line    0x00005367      0x298 ./src/ModeEntryAndConfig.o
- .debug_line    0x000055ff      0x336 ./src/UARTConfig.o
- .debug_line    0x00005935      0x221 ./src/User_Interface.o
- .debug_line    0x00005b56       0xfe ./src/Vector.o
- .debug_line    0x00005c54      0x314 ./src/eTimer.o
- .debug_line    0x00005f68      0x1d3 ./src/flashrchw.o
- .debug_line    0x0000613b      0x4cd ./src/gd3000.o
- .debug_line    0x00006608      0x200 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
- .debug_line    0x00006808       0x5d ./src/intc_sw_handlers.o
- .debug_line    0x00006865      0x4ad ./src/main.o
- .debug_line    0x00006d12      0x860 ./src/modele_moteur_virtuel.o
- .debug_line    0x00007572      0xb44 ./src/pga411.o
+.debug_line     0x00000000     0x7dce
+ .debug_line    0x00000000      0x38d ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
+ .debug_line    0x0000038d      0x258 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
+ .debug_line    0x000005e5      0xa40 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+ .debug_line    0x00001025      0x3b2 ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+ .debug_line    0x000013d7      0x4c8 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+ .debug_line    0x0000189f      0x2af ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
+ .debug_line    0x00001b4e      0x3bd ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+ .debug_line    0x00001f0b      0x258 ./FreeMaster_MPC57xxx/src_common/freemaster_tsa.o
+ .debug_line    0x00002163      0x29a ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
+ .debug_line    0x000023fd       0xe1 ./Project_Settings/Startup_Code/startup.o
+ .debug_line    0x000024de      0x2c4 ./src/ClockConfig.o
+ .debug_line    0x000027a2      0x9cb ./src/Cmd_moteur.o
+ .debug_line    0x0000316d      0x4ac ./src/ConfigADC.o
+ .debug_line    0x00003619      0x30a ./src/ConfigCTU.o
+ .debug_line    0x00003923      0x29e ./src/ConfigGPIO.o
+ .debug_line    0x00003bc1      0x2a3 ./src/ConfigPIT.o
+ .debug_line    0x00003e64      0x3e4 ./src/ConfigPWM.o
+ .debug_line    0x00004248      0x284 ./src/Config_eDMA.o
+ .debug_line    0x000044cc      0x620 ./src/Current_Sensor.o
+ .debug_line    0x00004aec      0x453 ./src/DSPIConfig.o
+ .debug_line    0x00004f3f      0x248 ./src/MPC57xx__Interrupt_Init.o
+ .debug_line    0x00005187      0x280 ./src/ModeEntryAndConfig.o
+ .debug_line    0x00005407      0x31e ./src/UARTConfig.o
+ .debug_line    0x00005725      0x209 ./src/User_Interface.o
+ .debug_line    0x0000592e       0xe6 ./src/Vector.o
+ .debug_line    0x00005a14      0x2fc ./src/eTimer.o
+ .debug_line    0x00005d10      0x1bb ./src/flashrchw.o
+ .debug_line    0x00005ecb      0x4b5 ./src/gd3000.o
+ .debug_line    0x00006380      0x1e8 ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+ .debug_line    0x00006568       0x5d ./src/intc_sw_handlers.o
+ .debug_line    0x000065c5      0x495 ./src/main.o
+ .debug_line    0x00006a5a      0x848 ./src/modele_moteur_virtuel.o
+ .debug_line    0x000072a2      0xb2c ./src/pga411.o
 
-.debug_str      0x00000000    0x50384
+.debug_str      0x00000000    0x5036c
  .debug_str     0x00000000     0x6ca8 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
                                0x6d05 (size before relaxing)
  .debug_str     0x00006ca8       0xb0 ./FreeMaster_MPC57xxx/src_common/freemaster_lin.o
                                0x6aa7 (size before relaxing)
- .debug_str     0x00006d58     0x144c ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
-                               0x7ebd (size before relaxing)
- .debug_str     0x000081a4      0x15e ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
+ .debug_str     0x00006d58     0x1434 ./FreeMaster_MPC57xxx/src_common/freemaster_pipes.o
+                               0x7ea5 (size before relaxing)
+ .debug_str     0x0000818c      0x15e ./FreeMaster_MPC57xxx/src_common/freemaster_protocol.o
                                0x6b99 (size before relaxing)
- .debug_str     0x00008302      0x457 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
+ .debug_str     0x000082ea      0x457 ./FreeMaster_MPC57xxx/src_common/freemaster_rec.o
                                0x6edf (size before relaxing)
- .debug_str     0x00008759       0xe1 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
+ .debug_str     0x00008741       0xe1 ./FreeMaster_MPC57xxx/src_common/freemaster_scope.o
                                0x6b0a (size before relaxing)
- .debug_str     0x0000883a      0x2f9 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
+ .debug_str     0x00008822      0x2f9 ./FreeMaster_MPC57xxx/src_common/freemaster_serial.o
                                0x6d3a (size before relaxing)
- .debug_str     0x00008b33       0xc0 ./FreeMaster_MPC57xxx/src_common/freemaster_tsa.o
+ .debug_str     0x00008b1b       0xc0 ./FreeMaster_MPC57xxx/src_common/freemaster_tsa.o
                                0x6acd (size before relaxing)
- .debug_str     0x00008bf3      0x113 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
+ .debug_str     0x00008bdb      0x113 ./FreeMaster_MPC57xxx/src_platforms/MPC57xx/freemaster_MPC57xx.o
                                0x61d1 (size before relaxing)
- .debug_str     0x00008d06    0x36272 ./src/ClockConfig.o
-                              0x392e6 (size before relaxing)
- .debug_str     0x0003ef78     0x95bc ./src/Cmd_moteur.o
-                               0xdc65 (size before relaxing)
- .debug_str     0x00048534     0x1290 ./src/ConfigADC.o
-                              0x387ce (size before relaxing)
- .debug_str     0x000497c4      0xccd ./src/ConfigCTU.o
-                              0x37f7e (size before relaxing)
- .debug_str     0x0004a491      0x151 ./src/ConfigGPIO.o
-                              0x386f1 (size before relaxing)
- .debug_str     0x0004a5e2      0x25c ./src/ConfigPIT.o
-                              0x3770c (size before relaxing)
- .debug_str     0x0004a83e      0xecf ./src/ConfigPWM.o
-                              0x38bda (size before relaxing)
- .debug_str     0x0004b70d      0xf1d ./src/Config_eDMA.o
-                              0x381ee (size before relaxing)
- .debug_str     0x0004c62a      0x292 ./src/Current_Sensor.o
-                              0x3bd72 (size before relaxing)
- .debug_str     0x0004c8bc      0x786 ./src/DSPIConfig.o
-                              0x39533 (size before relaxing)
- .debug_str     0x0004d042      0x41f ./src/MPC57xx__Interrupt_Init.o
-                              0x376cd (size before relaxing)
- .debug_str     0x0004d461     0x11f3 ./src/ModeEntryAndConfig.o
-                              0x38689 (size before relaxing)
- .debug_str     0x0004e654      0x7cb ./src/UARTConfig.o
-                              0x38f9a (size before relaxing)
- .debug_str     0x0004ee1f       0x2c ./src/User_Interface.o
-                              0x37ce2 (size before relaxing)
- .debug_str     0x0004ee4b       0x75 ./src/Vector.o
-                               0x24bf (size before relaxing)
- .debug_str     0x0004eec0      0x7f7 ./src/eTimer.o
-                              0x37aaf (size before relaxing)
- .debug_str     0x0004f6b7       0xe1 ./src/flashrchw.o
-                               0x3b0a (size before relaxing)
- .debug_str     0x0004f798      0x31c ./src/gd3000.o
-                              0x391b9 (size before relaxing)
- .debug_str     0x0004fab4       0x2b ./src/intc_SW_mode_isr_vectors_MPC5744P.o
-                               0x3a76 (size before relaxing)
- .debug_str     0x0004fadf       0xcf ./src/main.o
-                              0x3b70a (size before relaxing)
- .debug_str     0x0004fbae      0x167 ./src/modele_moteur_virtuel.o
-                               0xc741 (size before relaxing)
- .debug_str     0x0004fd15      0x66f ./src/pga411.o
-                              0x40864 (size before relaxing)
+ .debug_str     0x00008cee    0x36272 ./src/ClockConfig.o
+                              0x392ce (size before relaxing)
+ .debug_str     0x0003ef60     0x95bc ./src/Cmd_moteur.o
+                               0xdc4d (size before relaxing)
+ .debug_str     0x0004851c     0x1290 ./src/ConfigADC.o
+                              0x387b6 (size before relaxing)
+ .debug_str     0x000497ac      0xccd ./src/ConfigCTU.o
+                              0x37f66 (size before relaxing)
+ .debug_str     0x0004a479      0x151 ./src/ConfigGPIO.o
+                              0x386d9 (size before relaxing)
+ .debug_str     0x0004a5ca      0x25c ./src/ConfigPIT.o
+                              0x376f4 (size before relaxing)
+ .debug_str     0x0004a826      0xecf ./src/ConfigPWM.o
+                              0x38bc2 (size before relaxing)
+ .debug_str     0x0004b6f5      0xf1d ./src/Config_eDMA.o
+                              0x381d6 (size before relaxing)
+ .debug_str     0x0004c612      0x292 ./src/Current_Sensor.o
+                              0x3bd5a (size before relaxing)
+ .debug_str     0x0004c8a4      0x786 ./src/DSPIConfig.o
+                              0x3951b (size before relaxing)
+ .debug_str     0x0004d02a      0x41f ./src/MPC57xx__Interrupt_Init.o
+                              0x376b5 (size before relaxing)
+ .debug_str     0x0004d449     0x11f3 ./src/ModeEntryAndConfig.o
+                              0x38671 (size before relaxing)
+ .debug_str     0x0004e63c      0x7cb ./src/UARTConfig.o
+                              0x38f82 (size before relaxing)
+ .debug_str     0x0004ee07       0x2c ./src/User_Interface.o
+                              0x37cca (size before relaxing)
+ .debug_str     0x0004ee33       0x75 ./src/Vector.o
+                               0x24a7 (size before relaxing)
+ .debug_str     0x0004eea8      0x7f7 ./src/eTimer.o
+                              0x37a97 (size before relaxing)
+ .debug_str     0x0004f69f       0xe1 ./src/flashrchw.o
+                               0x3af2 (size before relaxing)
+ .debug_str     0x0004f780      0x31c ./src/gd3000.o
+                              0x391a1 (size before relaxing)
+ .debug_str     0x0004fa9c       0x2b ./src/intc_SW_mode_isr_vectors_MPC5744P.o
+                               0x3a5e (size before relaxing)
+ .debug_str     0x0004fac7       0xcf ./src/main.o
+                              0x3b6f2 (size before relaxing)
+ .debug_str     0x0004fb96      0x167 ./src/modele_moteur_virtuel.o
+                               0xc729 (size before relaxing)
+ .debug_str     0x0004fcfd      0x66f ./src/pga411.o
+                              0x4084c (size before relaxing)
 
 .debug_frame    0x00000000     0x348c
  .debug_frame   0x00000000      0x190 ./FreeMaster_MPC57xxx/src_common/freemaster_appcmd.o
